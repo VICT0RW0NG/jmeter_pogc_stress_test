@@ -33,21 +33,21 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"StoreID\": \"3202\",\r\n  \"CycleID\": \"20190101235959\",\r\n  \"Action\": \"01\"\r\n}"
+					"raw": "{\r\n  \"StoreID\": \"228\",\r\n  \"CycleID\": \"20200316154634\",\r\n  \"Action\": \"01\"\r\n}"
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/cycle_info/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/cycle_info/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"cycle_info",
 						""
@@ -87,18 +87,18 @@
 					"raw": "{\r\n  \"StoreID\": \"244\",\r\n  \"CycleID\": \"5010\",\r\n  \"LocationID\": \"GL001\",\r\n  \"POGCode\": \"090010CH4\",\r\n  \"POGVersion\": \"20190101\",\r\n  \"POGModule\": \"A\",\r\n  \"ShootingtDateTime\": \"20181231235959\",\r\n  \"NumberOfCapturedImage\": 2\r\n}"
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/shelf_data/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/shelf_data/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"shelf_data",
 						""
@@ -138,15 +138,15 @@
 					"raw": "{\r\n              \"CycleID\": \"20190101235959\",\r\n              \"StoreID\": \"3202\",\r\n              \"LocationID\": \"GL001\",\r\n              \"POGCode\": \"130015CKC\",\r\n              \"POGVersion\": \"20190101\",\r\n              \"POGModule\": \"B\",\r\n              \"ResultImageURL\": \"http://private-anon-c46724102c-kamuztest.apiary-mock.com/api/image3.jpg\",\r\n              \"ItemRecognitions\": [{\r\n                             \"ProductCode\": \"101545\",\r\n                             \"Result\": \"04\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 12\r\n              },\r\n              {\r\n                             \"ProductCode\": \"101564\",\r\n                             \"Result\": \"01\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 16\r\n              },\r\n              {\r\n                             \"ProductCode\": \"287657\",\r\n                             \"Result\": \"02\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 14,\r\n                             \"CorrectItemCode\": \"113627\"\r\n              },\r\n              {\r\n                             \"ProductCode\": \"287838\",\r\n                             \"Result\": \"03\",\r\n                             \"Layer\": \"B01\",\r\n                             \"ItemPosition\": 3\r\n              },\r\n              {\r\n                             \"ProductCode\": \"316322\",\r\n                             \"Result\": \"05\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 10\r\n              },\r\n              {\r\n                             \"ProductCode\": \"370742\",\r\n                             \"Result\": \"06\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 7\r\n              },\r\n              {\r\n                             \"ProductCode\": \"459566\",\r\n                             \"Result\": \"04\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 1\r\n              }]\r\n}\r\n"
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/recognition_result/",
+					"raw": "http://10.32.186.150:7005/ords/wtcphspc/pogc/recognition_result/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
 						"wtcphspc",
@@ -167,12 +167,6 @@
 				"method": "GET",
 				"header": [
 					{
-						"key": "Content-Type",
-						"value": "application/json",
-						"type": "text",
-						"disabled": true
-					},
-					{
 						"key": "i_user_name",
 						"value": "pogcph",
 						"type": "text"
@@ -189,12 +183,12 @@
 					},
 					{
 						"key": "i_store",
-						"value": "244",
+						"value": "228",
 						"type": "text"
 					},
 					{
 						"key": "i_cycleid",
-						"value": "20190520115454",
+						"value": "20200218160147",
 						"type": "text"
 					},
 					{
@@ -220,18 +214,18 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/recognition_result/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/recognition_result/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"recognition_result",
 						""
@@ -274,28 +268,27 @@
 					},
 					{
 						"key": "i_user_name",
-						"value": "jamw",
+						"value": "pogcph",
 						"type": "text"
 					},
 					{
 						"key": "i_password",
-						"value": "asw1234",
+						"value": "test1234",
 						"type": "text"
 					},
 					{
 						"key": "i_bu_id",
-						"value": "WTCHK",
+						"value": "WTCPH",
 						"type": "text"
 					},
 					{
 						"key": "i_store",
-						"value": "3299",
-						"type": "text",
-						"disabled": true
+						"value": "228",
+						"type": "text"
 					},
 					{
 						"key": "i_cycleid",
-						"value": "20190101235959",
+						"value": "20200218160147",
 						"type": "text",
 						"disabled": true
 					},
@@ -320,50 +313,24 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n              \"StoreNo\": \"3299\",\r\n              \"TimeStamp\": \"20190101235959\",\r\n              \"Products\": [{\r\n                             \"Item\": \"106657\",\r\n                             \"SOH\": 23,\r\n                             \"InTransitQty\": 105,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 19\r\n              },\r\n              {\r\n                             \"Item\": \"106749\",\r\n                             \"SOH\": 24,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 24,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"108203\",\r\n                             \"SOH\": 95,\r\n                             \"InTransitQty\": 50,\r\n                             \"ReservedQty\": 17,\r\n                             \"AvailableQty\": 78\r\n              },\r\n              {\r\n                             \"Item\": \"115428\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 68,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 84\r\n              },\r\n              {\r\n                             \"Item\": \"118528\",\r\n                             \"SOH\": 35,\r\n                             \"InTransitQty\": 85,\r\n                             \"ReservedQty\": 28,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"113627\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 45,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"119931\",\r\n                             \"SOH\": 93,\r\n                             \"InTransitQty\": 21,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 67\r\n              },\r\n              {\r\n                             \"Item\": \"146012\",\r\n                             \"SOH\": 82,\r\n                             \"InTransitQty\": 76,\r\n                             \"ReservedQty\": 51,\r\n                             \"AvailableQty\": 31\r\n              },\r\n              {\r\n                             \"Item\": \"158945\",\r\n                             \"SOH\": 19,\r\n                             \"InTransitQty\": 47,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"159180\",\r\n                             \"SOH\": 6,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"203192\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 18,\r\n                             \"AvailableQty\": 24\r\n              },\r\n              {\r\n                             \"Item\": \"203786\",\r\n                             \"SOH\": 32,\r\n                             \"InTransitQty\": 80,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"208100\",\r\n                             \"SOH\": 90,\r\n                             \"InTransitQty\": 104,\r\n                             \"ReservedQty\": 64,\r\n                             \"AvailableQty\": 26\r\n              },\r\n              {\r\n                             \"Item\": \"210447\",\r\n                             \"SOH\": 9,\r\n                             \"InTransitQty\": 40,\r\n                             \"ReservedQty\": 3,\r\n                             \"AvailableQty\": 6\r\n              },\r\n              {\r\n                             \"Item\": \"213123\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 22,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 44\r\n              },\r\n              {\r\n                             \"Item\": \"213733\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"213734\",\r\n                             \"SOH\": 22,\r\n                             \"InTransitQty\": 59,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"213824\",\r\n                             \"SOH\": 27,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 9,\r\n                             \"AvailableQty\": 18\r\n              },\r\n              {\r\n                             \"Item\": \"214001\",\r\n                             \"SOH\": 85,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 53\r\n              },\r\n              {\r\n                             \"Item\": \"214452\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 23,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"221608\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 82,\r\n                             \"AvailableQty\": 2\r\n              },\r\n              {\r\n                             \"Item\": \"225777\",\r\n                             \"SOH\": 66,\r\n                             \"InTransitQty\": 11,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 54\r\n              },\r\n              {\r\n                             \"Item\": \"226858\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 28,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"235033\",\r\n                             \"SOH\": 55,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 16\r\n              },\r\n              {\r\n                             \"Item\": \"241692\",\r\n                             \"SOH\": 31,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"241694\",\r\n                             \"SOH\": 16,\r\n                             \"InTransitQty\": 110,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"243211\",\r\n                             \"SOH\": 64,\r\n                             \"InTransitQty\": 44,\r\n                             \"ReservedQty\": 27,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"244766\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 107,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 30\r\n              },\r\n              {\r\n                             \"Item\": \"249576\",\r\n                             \"SOH\": 10,\r\n                             \"InTransitQty\": 55,\r\n                             \"ReservedQty\": 1,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"254861\",\r\n                             \"SOH\": 4,\r\n                             \"InTransitQty\": 67,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"255077\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 74,\r\n                             \"ReservedQty\": 16,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"255078\",\r\n                             \"SOH\": 87,\r\n                             \"InTransitQty\": 16,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 85\r\n              },\r\n              {\r\n                             \"Item\": \"259017\",\r\n                             \"SOH\": 89,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 43,\r\n                             \"AvailableQty\": 46\r\n              },\r\n              {\r\n                             \"Item\": \"261991\",\r\n                             \"SOH\": 56,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"287939\",\r\n                             \"SOH\": 71,\r\n                             \"InTransitQty\": 49,\r\n                             \"ReservedQty\": 58,\r\n                             \"AvailableQty\": 13\r\n              },\r\n              {\r\n                             \"Item\": \"290516\",\r\n                             \"SOH\": 39,\r\n                             \"InTransitQty\": 32,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 25\r\n              },\r\n              {\r\n                             \"Item\": \"292509\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"294092\",\r\n                             \"SOH\": 52,\r\n                             \"InTransitQty\": 103,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"294853\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 31,\r\n                             \"ReservedQty\": 23,\r\n                             \"AvailableQty\": 60\r\n              },\r\n              {\r\n                             \"Item\": \"298443\",\r\n                             \"SOH\": 67,\r\n                             \"InTransitQty\": 92,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 65\r\n              },\r\n              {\r\n                             \"Item\": \"302148\",\r\n                             \"SOH\": 26,\r\n                             \"InTransitQty\": 30,\r\n                             \"ReservedQty\": 11,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"302149\",\r\n                             \"SOH\": 103,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 21,\r\n                             \"AvailableQty\": 82\r\n              },\r\n              {\r\n                             \"Item\": \"467879\",\r\n                             \"SOH\": 8,\r\n                             \"InTransitQty\": 89,\r\n                             \"ReservedQty\": 5,\r\n                             \"AvailableQty\": 3\r\n              }]\r\n}"
+					"raw": "{\r\n              \"StoreNo\": \"228\",\r\n              \"TimeStamp\": \"20190101235959\",\r\n              \"Products\": [{\r\n                             \"Item\": \"106657\",\r\n                             \"SOH\": 23,\r\n                             \"InTransitQty\": 105,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 19\r\n              },\r\n              {\r\n                             \"Item\": \"106749\",\r\n                             \"SOH\": 24,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 24,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"108203\",\r\n                             \"SOH\": 95,\r\n                             \"InTransitQty\": 50,\r\n                             \"ReservedQty\": 17,\r\n                             \"AvailableQty\": 78\r\n              },\r\n              {\r\n                             \"Item\": \"115428\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 68,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 84\r\n              },\r\n              {\r\n                             \"Item\": \"118528\",\r\n                             \"SOH\": 35,\r\n                             \"InTransitQty\": 85,\r\n                             \"ReservedQty\": 28,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"113627\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 45,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"119931\",\r\n                             \"SOH\": 93,\r\n                             \"InTransitQty\": 21,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 67\r\n              },\r\n              {\r\n                             \"Item\": \"146012\",\r\n                             \"SOH\": 82,\r\n                             \"InTransitQty\": 76,\r\n                             \"ReservedQty\": 51,\r\n                             \"AvailableQty\": 31\r\n              },\r\n              {\r\n                             \"Item\": \"158945\",\r\n                             \"SOH\": 19,\r\n                             \"InTransitQty\": 47,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"159180\",\r\n                             \"SOH\": 6,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"203192\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 18,\r\n                             \"AvailableQty\": 24\r\n              },\r\n              {\r\n                             \"Item\": \"203786\",\r\n                             \"SOH\": 32,\r\n                             \"InTransitQty\": 80,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"208100\",\r\n                             \"SOH\": 90,\r\n                             \"InTransitQty\": 104,\r\n                             \"ReservedQty\": 64,\r\n                             \"AvailableQty\": 26\r\n              },\r\n              {\r\n                             \"Item\": \"210447\",\r\n                             \"SOH\": 9,\r\n                             \"InTransitQty\": 40,\r\n                             \"ReservedQty\": 3,\r\n                             \"AvailableQty\": 6\r\n              },\r\n              {\r\n                             \"Item\": \"213123\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 22,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 44\r\n              },\r\n              {\r\n                             \"Item\": \"213733\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"213734\",\r\n                             \"SOH\": 22,\r\n                             \"InTransitQty\": 59,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"213824\",\r\n                             \"SOH\": 27,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 9,\r\n                             \"AvailableQty\": 18\r\n              },\r\n              {\r\n                             \"Item\": \"214001\",\r\n                             \"SOH\": 85,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 53\r\n              },\r\n              {\r\n                             \"Item\": \"214452\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 23,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"221608\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 82,\r\n                             \"AvailableQty\": 2\r\n              },\r\n              {\r\n                             \"Item\": \"225777\",\r\n                             \"SOH\": 66,\r\n                             \"InTransitQty\": 11,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 54\r\n              },\r\n              {\r\n                             \"Item\": \"226858\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 28,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"235033\",\r\n                             \"SOH\": 55,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 16\r\n              },\r\n              {\r\n                             \"Item\": \"241692\",\r\n                             \"SOH\": 31,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"241694\",\r\n                             \"SOH\": 16,\r\n                             \"InTransitQty\": 110,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"243211\",\r\n                             \"SOH\": 64,\r\n                             \"InTransitQty\": 44,\r\n                             \"ReservedQty\": 27,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"244766\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 107,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 30\r\n              },\r\n              {\r\n                             \"Item\": \"249576\",\r\n                             \"SOH\": 10,\r\n                             \"InTransitQty\": 55,\r\n                             \"ReservedQty\": 1,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"254861\",\r\n                             \"SOH\": 4,\r\n                             \"InTransitQty\": 67,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"255077\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 74,\r\n                             \"ReservedQty\": 16,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"255078\",\r\n                             \"SOH\": 87,\r\n                             \"InTransitQty\": 16,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 85\r\n              },\r\n              {\r\n                             \"Item\": \"259017\",\r\n                             \"SOH\": 89,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 43,\r\n                             \"AvailableQty\": 46\r\n              },\r\n              {\r\n                             \"Item\": \"261991\",\r\n                             \"SOH\": 56,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"287939\",\r\n                             \"SOH\": 71,\r\n                             \"InTransitQty\": 49,\r\n                             \"ReservedQty\": 58,\r\n                             \"AvailableQty\": 13\r\n              },\r\n              {\r\n                             \"Item\": \"290516\",\r\n                             \"SOH\": 39,\r\n                             \"InTransitQty\": 32,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 25\r\n              },\r\n              {\r\n                             \"Item\": \"292509\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"294092\",\r\n                             \"SOH\": 52,\r\n                             \"InTransitQty\": 103,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"294853\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 31,\r\n                             \"ReservedQty\": 23,\r\n                             \"AvailableQty\": 60\r\n              },\r\n              {\r\n                             \"Item\": \"298443\",\r\n                             \"SOH\": 67,\r\n                             \"InTransitQty\": 92,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 65\r\n              },\r\n              {\r\n                             \"Item\": \"302148\",\r\n                             \"SOH\": 26,\r\n                             \"InTransitQty\": 30,\r\n                             \"ReservedQty\": 11,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"302149\",\r\n                             \"SOH\": 103,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 21,\r\n                             \"AvailableQty\": 82\r\n              },\r\n              {\r\n                             \"Item\": \"467879\",\r\n                             \"SOH\": 8,\r\n                             \"InTransitQty\": 89,\r\n                             \"ReservedQty\": 5,\r\n                             \"AvailableQty\": 3\r\n              }]\r\n}"
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/store_item_soh/?Content-Type=application/json&i_user_name=rajeshph&i_password=asw1234&i_bu_id=WTCPH&i_store=244&i_cycleid=20190520115454",
+					"raw": "http://10.32.181.80:8181/RSIMCentral/api/realTimeStockQuery",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
-						"186",
-						"131"
+						"181",
+						"80"
 					],
-					"port": "8088",
+					"port": "8181",
 					"path": [
-						"ords",
-						"wtcphspc",
-						"pogc",
-						"store_item_soh",
-						""
+						"RSIMCentral",
+						"api",
+						"realTimeStockQuery"
 					],
 					"query": [
-						{
-							"key": "Content-Type",
-							"value": "application/json"
-						},
-						{
-							"key": "i_user_name",
-							"value": "rajeshph"
-						},
-						{
-							"key": "i_password",
-							"value": "asw1234"
-						},
-						{
-							"key": "i_bu_id",
-							"value": "WTCPH"
-						},
-						{
-							"key": "i_store",
-							"value": "244"
-						},
-						{
-							"key": "i_cycleid",
-							"value": "20190520115454"
-						},
 						{
 							"key": "i_pog_code",
 							"value": "POGXFCAREX7M",
@@ -411,28 +378,28 @@
 					},
 					{
 						"key": "i_store",
-						"value": "244",
+						"value": "228",
 						"type": "text"
 					},
 					{
 						"key": "i_cycleid",
-						"value": "20190604141120",
+						"value": "20200218160147",
 						"type": "text"
 					}
 				],
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/get_kpi_home/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/get_kpi_home/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"get_kpi_home",
 						""
@@ -536,12 +503,12 @@
 					},
 					{
 						"key": "i_user_name",
-						"value": "rajeshph",
+						"value": "pogcph",
 						"type": "text"
 					},
 					{
 						"key": "i_password",
-						"value": "asw1234",
+						"value": "test1234",
 						"type": "text"
 					},
 					{
@@ -551,13 +518,14 @@
 					},
 					{
 						"key": "i_store",
-						"value": "244",
+						"value": "228",
 						"type": "text"
 					},
 					{
 						"key": "i_cycleid",
 						"value": "20190520115454",
-						"type": "text"
+						"type": "text",
+						"disabled": true
 					},
 					{
 						"key": "i_pog_code",
@@ -601,18 +569,18 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/recommendation/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/recommendation/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"recommendation",
 						""
@@ -634,12 +602,12 @@
 					},
 					{
 						"key": "i_user_name",
-						"value": "rajeshph",
+						"value": "pogcph",
 						"type": "text"
 					},
 					{
 						"key": "i_password",
-						"value": "asw1234",
+						"value": "test1234",
 						"type": "text"
 					},
 					{
@@ -650,7 +618,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n              \"RequestDate\": \"20190919\",\r\n              \"Stores\": [\r\n                             {\r\n                                           \"Store\": \"244\",\r\n                                           \"QRCodes\": [\r\n                                                          {\r\n\"QRCode\" : \"244GL060\",\r\n\"BindLoc\" : \"GL060\"\r\n}\r\n\r\n                                           ]\r\n                             }\r\n              ]\r\n}\r\n",
+					"raw": "{\r\n              \"RequestDate\": \"20200316\",\r\n              \"Stores\": [\r\n                             {\r\n                                           \"Store\": \"228\",\r\n                                           \"QRCodes\": [\r\n                                                          {\r\n\"QRCode\" : \"244GL060\",\r\n\"BindLoc\" : \"GL060\"\r\n}\r\n\r\n                                           ]\r\n                             }\r\n              ]\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -658,18 +626,18 @@
 					}
 				},
 				"url": {
-					"raw": "http://10.32.186.131:8088/ords/wtcphspc/pogc/upload_qr_code/",
+					"raw": "http://10.32.186.150:7005/ords/space/pogc/upload_qr_code/",
 					"protocol": "http",
 					"host": [
 						"10",
 						"32",
 						"186",
-						"131"
+						"150"
 					],
-					"port": "8088",
+					"port": "7005",
 					"path": [
 						"ords",
-						"wtcphspc",
+						"space",
 						"pogc",
 						"upload_qr_code",
 						""
