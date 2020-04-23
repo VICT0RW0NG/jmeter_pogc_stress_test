@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586422408033,98,HTTP Request,200,OK,#A: KPIs at HOME   2-1,text,true,,634,265,2,2,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,97,0,8
+1586422408132,70,HTTP Request,200,OK,#A: KPIs at HOME   2-2,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,69,0,8
+1586422408235,75,HTTP Request,200,OK,#A: KPIs at HOME   2-3,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,74,0,9
+1586422408333,72,HTTP Request,200,OK,#A: KPIs at HOME   2-4,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,70,0,9
+1586422408432,77,HTTP Request,200,OK,#A: KPIs at HOME   2-5,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,74,0,9
+1586422408533,71,HTTP Request,200,OK,#A: KPIs at HOME   2-6,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,69,0,7
+1586422408633,78,HTTP Request,200,OK,#A: KPIs at HOME   2-7,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,76,0,12
+1586422408734,74,HTTP Request,200,OK,#A: KPIs at HOME   2-8,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,73,0,13
+1586422408831,75,HTTP Request,200,OK,#A: KPIs at HOME   2-9,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,73,0,7
+1586422408932,74,HTTP Request,200,OK,#A: KPIs at HOME   2-10,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,72,0,7

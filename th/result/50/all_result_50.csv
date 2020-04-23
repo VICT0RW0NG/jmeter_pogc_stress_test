@@ -1,0 +1,502 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586434405679,167,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,324,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,167,0,125
+1586434405873,136,HTTP Request,200,OK,#A: KPIs at HOME   2-2,text,true,,634,265,8,8,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,134,0,8
+1586434405854,182,HTTP Request,200,OK,#A: KPIs at HOME   2-1,text,true,,634,265,9,9,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,181,0,7
+1586434405894,189,HTTP Request,200,OK,#A: KPIs at HOME   2-3,text,true,,634,265,10,10,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,177,0,7
+1586434405917,198,HTTP Request,200,OK,#A: KPIs at HOME   2-4,text,true,,634,265,11,11,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,196,0,7
+1586434405936,278,HTTP Request,200,OK,#A: KPIs at HOME   2-5,text,true,,634,265,15,15,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,271,0,7
+1586434406016,205,HTTP Request,200,OK,#A: KPIs at HOME   2-9,text,true,,634,265,14,14,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,200,0,6
+1586434405954,542,HTTP Request,200,OK,#A: KPIs at HOME   2-6,text,true,,634,265,27,27,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,535,0,8
+1586434406033,464,HTTP Request,200,OK,#A: KPIs at HOME   2-10,text,true,,634,265,26,26,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,462,0,7
+1586434405974,533,HTTP Request,200,OK,#A: KPIs at HOME   2-7,text,true,,634,265,25,25,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,529,0,7
+1586434405996,517,HTTP Request,200,OK,#A: KPIs at HOME   2-8,text,true,,634,265,25,25,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,515,0,7
+1586434406114,613,HTTP Request,200,OK,#A: KPIs at HOME   2-14,text,true,,634,265,34,34,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,600,0,7
+1586434406156,580,HTTP Request,200,OK,#A: KPIs at HOME   2-16,text,true,,634,265,34,34,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,577,0,7
+1586434406076,662,HTTP Request,200,OK,#A: KPIs at HOME   2-12,text,true,,634,265,33,33,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,659,0,6
+1586434406194,545,HTTP Request,200,OK,#A: KPIs at HOME   2-18,text,true,,634,265,32,32,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,539,0,8
+1586434406095,648,HTTP Request,200,OK,#A: KPIs at HOME   2-13,text,true,,634,265,31,31,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,643,0,7
+1586434406053,699,HTTP Request,200,OK,#A: KPIs at HOME   2-11,text,true,,634,265,31,31,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,694,0,8
+1586434406214,545,HTTP Request,200,OK,#A: KPIs at HOME   2-19,text,true,,634,265,30,30,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,540,0,7
+1586434406134,657,HTTP Request,200,OK,#A: KPIs at HOME   2-15,text,true,,634,265,30,30,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,653,0,7
+1586434406174,623,HTTP Request,200,OK,#A: KPIs at HOME   2-17,text,true,,634,265,30,30,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,620,0,7
+1586434406236,679,HTTP Request,200,OK,#A: KPIs at HOME   2-20,text,true,,634,265,31,31,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,676,0,6
+1586434406254,664,HTTP Request,200,OK,#A: KPIs at HOME   2-21,text,true,,634,265,30,30,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,662,0,8
+1586434406333,591,HTTP Request,200,OK,#A: KPIs at HOME   2-25,text,true,,634,265,29,29,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,588,0,9
+1586434406354,571,HTTP Request,200,OK,#A: KPIs at HOME   2-26,text,true,,634,265,28,28,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,569,0,7
+1586434406294,644,HTTP Request,200,OK,#A: KPIs at HOME   2-23,text,true,,634,265,27,27,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,641,0,9
+1586434406393,566,HTTP Request,200,OK,#A: KPIs at HOME   2-28,text,true,,634,265,26,26,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,565,0,7
+1586434406412,566,HTTP Request,200,OK,#A: KPIs at HOME   2-29,text,true,,634,265,25,25,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,564,0,6
+1586434406374,606,HTTP Request,200,OK,#A: KPIs at HOME   2-27,text,true,,634,265,24,24,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,603,0,6
+1586434406315,671,HTTP Request,200,OK,#A: KPIs at HOME   2-24,text,true,,634,265,23,23,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,661,0,11
+1586434406275,720,HTTP Request,200,OK,#A: KPIs at HOME   2-22,text,true,,634,265,22,22,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,718,0,6
+1586434406432,611,HTTP Request,200,OK,#A: KPIs at HOME   2-30,text,true,,634,265,21,21,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,608,0,7
+1586434406451,601,HTTP Request,200,OK,#A: KPIs at HOME   2-31,text,true,,634,265,20,20,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,597,0,7
+1586434406471,584,HTTP Request,200,OK,#A: KPIs at HOME   2-32,text,true,,634,265,19,19,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,582,0,6
+1586434406511,545,HTTP Request,200,OK,#A: KPIs at HOME   2-34,text,true,,634,265,18,18,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,544,0,6
+1586434406491,568,HTTP Request,200,OK,#A: KPIs at HOME   2-33,text,true,,634,265,17,17,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,566,0,6
+1586434406531,531,HTTP Request,200,OK,#A: KPIs at HOME   2-35,text,true,,634,265,16,16,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,528,0,6
+1586434406550,544,HTTP Request,200,OK,#A: KPIs at HOME   2-36,text,true,,634,265,15,15,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,536,0,6
+1586434406570,533,HTTP Request,200,OK,#A: KPIs at HOME   2-37,text,true,,634,265,14,14,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,532,0,7
+1586434406590,516,HTTP Request,200,OK,#A: KPIs at HOME   2-38,text,true,,634,265,13,13,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,514,0,7
+1586434406611,513,HTTP Request,200,OK,#A: KPIs at HOME   2-39,text,true,,634,265,12,12,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,513,0,6
+1586434406631,521,HTTP Request,200,OK,#A: KPIs at HOME   2-40,text,true,,634,265,11,11,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,519,0,7
+1586434406651,507,HTTP Request,200,OK,#A: KPIs at HOME   2-41,text,true,,634,265,10,10,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,506,0,7
+1586434406710,463,HTTP Request,200,OK,#A: KPIs at HOME   2-44,text,true,,634,265,9,9,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,461,0,6
+1586434406671,515,HTTP Request,200,OK,#A: KPIs at HOME   2-42,text,true,,634,265,8,8,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,513,0,7
+1586434406690,527,HTTP Request,200,OK,#A: KPIs at HOME   2-43,text,true,,634,265,7,7,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,524,0,8
+1586434406750,471,HTTP Request,200,OK,#A: KPIs at HOME   2-46,text,true,,634,265,6,6,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,467,0,6
+1586434406771,450,HTTP Request,200,OK,#A: KPIs at HOME   2-47,text,true,,634,265,6,6,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,445,0,6
+1586434406792,451,HTTP Request,200,OK,#A: KPIs at HOME   2-48,text,true,,634,265,4,4,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,450,0,6
+1586434406730,518,HTTP Request,200,OK,#A: KPIs at HOME   2-45,text,true,,634,265,3,3,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,516,0,7
+1586434406832,423,HTTP Request,200,OK,#A: KPIs at HOME   2-50,text,true,,634,265,2,2,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,422,0,7
+1586434406812,448,HTTP Request,200,OK,#A: KPIs at HOME   2-49,text,true,,634,265,1,1,http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/,446,0,7
+1586434407263,61,HTTP Request,200,OK,#B: Recognition Result  3-1,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,60,0,8
+1586434407282,59,HTTP Request,200,OK,#B: Recognition Result  3-2,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,7
+1586434407303,60,HTTP Request,200,OK,#B: Recognition Result  3-3,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,7
+1586434407322,55,HTTP Request,200,OK,#B: Recognition Result  3-4,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,54,0,6
+1586434407343,57,HTTP Request,200,OK,#B: Recognition Result  3-5,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,56,0,7
+1586434407363,59,HTTP Request,200,OK,#B: Recognition Result  3-6,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,57,0,7
+1586434407384,62,HTTP Request,200,OK,#B: Recognition Result  3-7,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,60,0,8
+1586434407403,68,HTTP Request,200,OK,#B: Recognition Result  3-8,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,67,0,11
+1586434407423,64,HTTP Request,200,OK,#B: Recognition Result  3-9,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,63,0,7
+1586434407443,64,HTTP Request,200,OK,#B: Recognition Result  3-10,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,63,0,6
+1586434407463,64,HTTP Request,200,OK,#B: Recognition Result  3-11,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,63,0,8
+1586434407483,71,HTTP Request,200,OK,#B: Recognition Result  3-12,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,68,0,7
+1586434407503,60,HTTP Request,200,OK,#B: Recognition Result  3-13,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,59,0,6
+1586434407524,72,HTTP Request,200,OK,#B: Recognition Result  3-14,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,70,0,8
+1586434407545,65,HTTP Request,200,OK,#B: Recognition Result  3-15,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,65,0,7
+1586434407564,74,HTTP Request,200,OK,#B: Recognition Result  3-16,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,72,0,7
+1586434407584,70,HTTP Request,200,OK,#B: Recognition Result  3-17,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,69,0,7
+1586434407603,65,HTTP Request,200,OK,#B: Recognition Result  3-18,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,62,0,7
+1586434407622,66,HTTP Request,200,OK,#B: Recognition Result  3-19,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,65,0,7
+1586434407643,59,HTTP Request,200,OK,#B: Recognition Result  3-20,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,7
+1586434407663,76,HTTP Request,200,OK,#B: Recognition Result  3-21,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,73,0,9
+1586434407683,65,HTTP Request,200,OK,#B: Recognition Result  3-22,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,62,0,7
+1586434407704,58,HTTP Request,200,OK,#B: Recognition Result  3-23,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,56,0,6
+1586434407724,59,HTTP Request,200,OK,#B: Recognition Result  3-24,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,8
+1586434407747,59,HTTP Request,200,OK,#B: Recognition Result  3-25,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,8
+1586434407763,59,HTTP Request,200,OK,#B: Recognition Result  3-26,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,6
+1586434407784,62,HTTP Request,200,OK,#B: Recognition Result  3-27,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,61,0,8
+1586434407804,60,HTTP Request,200,OK,#B: Recognition Result  3-28,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,7
+1586434407823,65,HTTP Request,200,OK,#B: Recognition Result  3-29,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,63,0,6
+1586434407844,57,HTTP Request,200,OK,#B: Recognition Result  3-30,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,56,0,6
+1586434407864,57,HTTP Request,200,OK,#B: Recognition Result  3-31,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,56,0,7
+1586434407884,62,HTTP Request,200,OK,#B: Recognition Result  3-32,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,61,0,6
+1586434407906,62,HTTP Request,200,OK,#B: Recognition Result  3-33,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,61,0,7
+1586434407925,55,HTTP Request,200,OK,#B: Recognition Result  3-34,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,53,0,6
+1586434407944,59,HTTP Request,200,OK,#B: Recognition Result  3-35,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,56,0,7
+1586434407965,65,HTTP Request,200,OK,#B: Recognition Result  3-36,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,64,0,7
+1586434407986,60,HTTP Request,200,OK,#B: Recognition Result  3-37,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,58,0,7
+1586434408003,56,HTTP Request,200,OK,#B: Recognition Result  3-38,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,55,0,7
+1586434408025,64,HTTP Request,200,OK,#B: Recognition Result  3-39,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,63,0,5
+1586434408044,59,HTTP Request,200,OK,#B: Recognition Result  3-40,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,57,0,6
+1586434408065,59,HTTP Request,200,OK,#B: Recognition Result  3-41,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,57,0,7
+1586434408086,59,HTTP Request,200,OK,#B: Recognition Result  3-42,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,57,0,6
+1586434408192,83,HTTP Request,200,OK,#B: Recognition Result  3-47,text,true,,375,329,8,8,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,82,0,9
+1586434408192,92,HTTP Request,200,OK,#B: Recognition Result  3-46,text,true,,375,329,7,7,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,90,0,11
+1586434408192,95,HTTP Request,200,OK,#B: Recognition Result  3-45,text,true,,375,329,6,6,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,94,0,8
+1586434408190,99,HTTP Request,200,OK,#B: Recognition Result  3-43,text,true,,375,329,5,5,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,97,0,8
+1586434408191,100,HTTP Request,200,OK,#B: Recognition Result  3-44,text,true,,375,329,4,4,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,98,0,8
+1586434408227,69,HTTP Request,200,OK,#B: Recognition Result  3-49,text,true,,375,329,3,3,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,69,0,9
+1586434408205,96,HTTP Request,200,OK,#B: Recognition Result  3-48,text,true,,375,329,2,2,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,95,0,10
+1586434408263,65,HTTP Request,200,OK,#B: Recognition Result  3-50,text,true,,375,329,1,1,http://10.32.186.150:7006/ords/space/pogc/recognition_result/,64,0,7
+1586434408451,3007,HTTP Request,200,OK,#D: POG Search & Recommendation  4-7,text,true,,607,315,50,50,http://10.32.186.150:7006/ords/space/pogc/recommendation/,2996,0,6
+1586434408371,3129,HTTP Request,200,OK,#D: POG Search & Recommendation  4-3,text,true,,607,315,49,49,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3116,0,6
+1586434408430,3201,HTTP Request,200,OK,#D: POG Search & Recommendation  4-6,text,true,,607,315,48,48,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3195,0,6
+1586434408471,3206,HTTP Request,200,OK,#D: POG Search & Recommendation  4-8,text,true,,607,315,47,47,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3195,0,6
+1586434408489,3199,HTTP Request,200,OK,#D: POG Search & Recommendation  4-9,text,true,,607,315,46,46,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3191,0,7
+1586434408351,3410,HTTP Request,200,OK,#D: POG Search & Recommendation  4-2,text,true,,607,315,45,45,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3405,0,8
+1586434408410,3440,HTTP Request,200,OK,#D: POG Search & Recommendation  4-5,text,true,,607,315,44,44,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3426,0,7
+1586434408351,3619,HTTP Request,200,OK,#D: POG Search & Recommendation  4-1,text,true,,607,315,43,43,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3608,0,7
+1586434408390,3596,HTTP Request,200,OK,#D: POG Search & Recommendation  4-4,text,true,,607,315,42,42,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3594,0,6
+1586434408510,3580,HTTP Request,200,OK,#D: POG Search & Recommendation  4-10,text,true,,607,315,41,41,http://10.32.186.150:7006/ords/space/pogc/recommendation/,3577,0,6
+1586434408530,4858,HTTP Request,200,OK,#D: POG Search & Recommendation  4-11,text,true,,607,315,40,40,http://10.32.186.150:7006/ords/space/pogc/recommendation/,4853,0,6
+1586434408551,5026,HTTP Request,200,OK,#D: POG Search & Recommendation  4-12,text,true,,607,315,39,39,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5014,0,9
+1586434408591,5084,HTTP Request,200,OK,#D: POG Search & Recommendation  4-14,text,true,,607,315,38,38,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5074,0,6
+1586434408571,5210,HTTP Request,200,OK,#D: POG Search & Recommendation  4-13,text,true,,607,315,37,37,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5207,0,9
+1586434408609,5326,HTTP Request,200,OK,#D: POG Search & Recommendation  4-15,text,true,,607,315,36,36,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5317,0,7
+1586434408631,5431,HTTP Request,200,OK,#D: POG Search & Recommendation  4-16,text,true,,607,315,35,35,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5418,0,6
+1586434408669,5502,HTTP Request,200,OK,#D: POG Search & Recommendation  4-18,text,true,,607,315,34,34,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5491,0,6
+1586434408649,5714,HTTP Request,200,OK,#D: POG Search & Recommendation  4-17,text,true,,607,315,33,33,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5704,0,6
+1586434408690,5692,HTTP Request,200,OK,#D: POG Search & Recommendation  4-19,text,true,,607,315,32,32,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5689,0,6
+1586434408709,5687,HTTP Request,200,OK,#D: POG Search & Recommendation  4-20,text,true,,607,315,31,31,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5687,0,7
+1586434408951,5525,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-32,text,false,,16702,315,30,30,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5514,0,9
+1586434409073,5411,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-38,text,false,,16702,315,29,29,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5399,0,7
+1586434409230,5254,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-46,text,false,,16702,315,29,29,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5239,0,8
+1586434409171,5314,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-43,text,false,,16702,315,27,27,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5305,0,10
+1586434409090,5399,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-39,text,false,,16702,315,26,26,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5387,0,7
+1586434409192,5311,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-44,text,false,,16702,315,25,25,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5294,0,7
+1586434408970,5534,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-33,text,false,,16702,315,24,24,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5519,0,6
+1586434408931,5574,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-31,text,false,,16702,315,23,23,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5562,0,7
+1586434409250,5255,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-47,text,false,,16702,315,23,23,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5245,0,7
+1586434408990,5519,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-34,text,false,,16702,315,21,21,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5504,0,9
+1586434409210,5300,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-45,text,false,,16702,315,20,20,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5289,0,8
+1586434409146,5378,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-41,text,false,,16702,315,19,19,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5362,0,7
+1586434409150,5376,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-42,text,false,,16702,315,18,18,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5360,0,8
+1586434409051,5477,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-37,text,false,,16702,315,17,17,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5463,0,8
+1586434409111,5421,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-40,text,false,,16702,315,16,16,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5407,0,7
+1586434409011,5521,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-35,text,false,,16702,315,16,16,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5508,0,7
+1586434409270,5265,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-48,text,false,,16702,315,14,14,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5256,0,7
+1586434409031,5505,HTTP Request,503,Service Unavailable,#D: POG Search & Recommendation  4-36,text,false,,16702,315,13,13,http://10.32.186.150:7006/ords/space/pogc/recommendation/,5500,0,7
+1586434408731,6749,HTTP Request,200,OK,#D: POG Search & Recommendation  4-21,text,true,,607,315,12,12,http://10.32.186.150:7006/ords/space/pogc/recommendation/,6739,0,7
+1586434408790,7080,HTTP Request,200,OK,#D: POG Search & Recommendation  4-24,text,true,,607,315,11,11,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7078,0,7
+1586434408770,7131,HTTP Request,200,OK,#D: POG Search & Recommendation  4-23,text,true,,607,315,10,10,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7119,0,6
+1586434408752,7171,HTTP Request,200,OK,#D: POG Search & Recommendation  4-22,text,true,,607,315,9,9,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7159,0,8
+1586434408831,7269,HTTP Request,200,OK,#D: POG Search & Recommendation  4-26,text,true,,607,315,8,8,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7256,0,7
+1586434408812,7462,HTTP Request,200,OK,#D: POG Search & Recommendation  4-25,text,true,,607,315,7,7,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7450,0,7
+1586434408851,7501,HTTP Request,200,OK,#D: POG Search & Recommendation  4-27,text,true,,607,315,6,6,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7499,0,7
+1586434408890,7540,HTTP Request,200,OK,#D: POG Search & Recommendation  4-29,text,true,,607,315,5,5,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7528,0,7
+1586434408871,7565,HTTP Request,200,OK,#D: POG Search & Recommendation  4-28,text,true,,607,315,4,4,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7563,0,5
+1586434408910,7622,HTTP Request,200,OK,#D: POG Search & Recommendation  4-30,text,true,,607,315,3,3,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7620,0,7
+1586434409290,7485,HTTP Request,200,OK,#D: POG Search & Recommendation  4-49,text,true,,607,315,2,2,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7484,0,7
+1586434409311,7722,HTTP Request,200,OK,#D: POG Search & Recommendation  4-50,text,true,,607,315,1,1,http://10.32.186.150:7006/ords/space/pogc/recommendation/,7720,0,8
+1586434417057,130,HTTP Request,200,OK,#E: Shelf Data Upload 5-2,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,129,0,6
+1586434417037,159,HTTP Request,200,OK,#E: Shelf Data Upload 5-1,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,159,0,6
+1586434417075,125,HTTP Request,200,OK,#E: Shelf Data Upload 5-3,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,125,0,7
+1586434417095,122,HTTP Request,200,OK,#E: Shelf Data Upload 5-4,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,122,0,9
+1586434417115,125,HTTP Request,200,OK,#E: Shelf Data Upload 5-5,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,125,0,7
+1586434417135,130,HTTP Request,200,OK,#E: Shelf Data Upload 5-6,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,130,0,7
+1586434417156,139,HTTP Request,200,OK,#E: Shelf Data Upload 5-7,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,139,0,7
+1586434417195,122,HTTP Request,200,OK,#E: Shelf Data Upload 5-9,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,122,0,7
+1586434417178,141,HTTP Request,200,OK,#E: Shelf Data Upload 5-8,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,141,0,7
+1586434417215,140,HTTP Request,200,OK,#E: Shelf Data Upload 5-10,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,139,0,6
+1586434417236,156,HTTP Request,200,OK,#E: Shelf Data Upload 5-11,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,156,0,8
+1586434417257,172,HTTP Request,200,OK,#E: Shelf Data Upload 5-12,text,true,,291,491,9,9,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,172,0,8
+1586434417276,153,HTTP Request,200,OK,#E: Shelf Data Upload 5-13,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,153,0,7
+1586434417296,136,HTTP Request,200,OK,#E: Shelf Data Upload 5-14,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,136,0,6
+1586434417316,137,HTTP Request,200,OK,#E: Shelf Data Upload 5-15,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,137,0,7
+1586434417337,118,HTTP Request,200,OK,#E: Shelf Data Upload 5-16,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,118,0,7
+1586434417356,113,HTTP Request,200,OK,#E: Shelf Data Upload 5-17,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,113,0,6
+1586434417376,117,HTTP Request,200,OK,#E: Shelf Data Upload 5-18,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,116,0,10
+1586434417395,144,HTTP Request,200,OK,#E: Shelf Data Upload 5-19,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,144,0,8
+1586434417416,135,HTTP Request,200,OK,#E: Shelf Data Upload 5-20,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,135,0,8
+1586434417436,159,HTTP Request,200,OK,#E: Shelf Data Upload 5-21,text,true,,291,491,9,9,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,159,0,6
+1586434417457,146,HTTP Request,200,OK,#E: Shelf Data Upload 5-22,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,146,0,6
+1586434417496,160,HTTP Request,200,OK,#E: Shelf Data Upload 5-24,text,true,,291,491,10,10,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,160,0,7
+1586434417476,191,HTTP Request,200,OK,#E: Shelf Data Upload 5-23,text,true,,291,491,9,9,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,191,0,7
+1586434417515,154,HTTP Request,200,OK,#E: Shelf Data Upload 5-25,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,154,0,6
+1586434417535,146,HTTP Request,200,OK,#E: Shelf Data Upload 5-26,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,146,0,7
+1586434417556,144,HTTP Request,200,OK,#E: Shelf Data Upload 5-27,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,143,0,6
+1586434417577,130,HTTP Request,200,OK,#E: Shelf Data Upload 5-28,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,130,0,7
+1586434417594,115,HTTP Request,200,OK,#E: Shelf Data Upload 5-29,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,115,0,7
+1586434417615,116,HTTP Request,200,OK,#E: Shelf Data Upload 5-30,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,116,0,7
+1586434417636,126,HTTP Request,200,OK,#E: Shelf Data Upload 5-31,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,126,0,7
+1586434417655,130,HTTP Request,200,OK,#E: Shelf Data Upload 5-32,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,130,0,6
+1586434417676,120,HTTP Request,200,OK,#E: Shelf Data Upload 5-33,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,119,0,7
+1586434417695,125,HTTP Request,200,OK,#E: Shelf Data Upload 5-34,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,125,0,7
+1586434417715,109,HTTP Request,200,OK,#E: Shelf Data Upload 5-35,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,109,0,6
+1586434417737,123,HTTP Request,200,OK,#E: Shelf Data Upload 5-36,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,122,0,7
+1586434417755,118,HTTP Request,200,OK,#E: Shelf Data Upload 5-37,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,118,0,7
+1586434417776,123,HTTP Request,200,OK,#E: Shelf Data Upload 5-38,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,123,0,6
+1586434417795,111,HTTP Request,200,OK,#E: Shelf Data Upload 5-39,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,111,0,9
+1586434417817,123,HTTP Request,200,OK,#E: Shelf Data Upload 5-40,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,123,0,7
+1586434417835,112,HTTP Request,200,OK,#E: Shelf Data Upload 5-41,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,112,0,6
+1586434417856,147,HTTP Request,200,OK,#E: Shelf Data Upload 5-42,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,147,0,7
+1586434417875,144,HTTP Request,200,OK,#E: Shelf Data Upload 5-43,text,true,,291,491,8,8,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,143,0,7
+1586434417896,131,HTTP Request,200,OK,#E: Shelf Data Upload 5-44,text,true,,291,491,7,7,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,131,0,6
+1586434417917,114,HTTP Request,200,OK,#E: Shelf Data Upload 5-45,text,true,,291,491,6,6,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,114,0,6
+1586434417934,113,HTTP Request,200,OK,#E: Shelf Data Upload 5-46,text,true,,291,491,5,5,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,113,0,8
+1586434417956,111,HTTP Request,200,OK,#E: Shelf Data Upload 5-47,text,true,,291,491,4,4,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,111,0,7
+1586434417975,120,HTTP Request,200,OK,#E: Shelf Data Upload 5-48,text,true,,291,491,3,3,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,120,0,8
+1586434417995,114,HTTP Request,200,OK,#E: Shelf Data Upload 5-49,text,true,,291,491,2,2,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,114,0,8
+1586434418015,113,HTTP Request,200,OK,#E: Shelf Data Upload 5-50,text,true,,291,491,1,1,http://10.32.186.150:7006/ords/space/pogc/shelf_data/,113,0,8
+1586434418130,19253,HTTP Request,200,OK,#F: Shelf Image Upload 6-1,text,true,,371,5207446,50,50,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,19253,0,30
+1586434418170,19452,HTTP Request,200,OK,#F: Shelf Image Upload 6-3,text,true,,371,5207449,49,49,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,19452,0,18
+1586434418151,63914,HTTP Request,200,OK,#F: Shelf Image Upload 6-2,text,true,,371,5207455,48,48,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,63914,0,23
+1586434418190,212052,HTTP Request,200,OK,#F: Shelf Image Upload 6-4,text,true,,371,5207434,47,47,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,212052,0,50
+1586434418230,219571,HTTP Request,200,OK,#F: Shelf Image Upload 6-6,text,true,,371,5207446,46,46,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,219571,0,134
+1586434418251,223366,HTTP Request,200,OK,#F: Shelf Image Upload 6-7,text,true,,371,5207461,45,45,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,223366,0,153
+1586434418270,223750,HTTP Request,200,OK,#F: Shelf Image Upload 6-8,text,true,,371,5207434,44,44,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,223750,0,173
+1586434418330,225871,HTTP Request,200,OK,#F: Shelf Image Upload 6-11,text,true,,371,5207452,43,43,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,225871,0,196
+1586434418351,226318,HTTP Request,200,OK,#F: Shelf Image Upload 6-12,text,true,,371,5207437,42,42,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,226318,0,206
+1586434418292,226733,HTTP Request,200,OK,#F: Shelf Image Upload 6-9,text,true,,371,5207431,41,41,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,226733,0,175
+1586434418389,226978,HTTP Request,200,OK,#F: Shelf Image Upload 6-14,text,true,,371,5207452,40,40,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,226978,0,223
+1586434418571,227542,HTTP Request,200,OK,#F: Shelf Image Upload 6-23,text,true,,371,5207455,39,39,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,227542,0,316
+1586434418868,227639,HTTP Request,200,OK,#F: Shelf Image Upload 6-38,text,true,,371,5207431,38,38,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,227639,0,469
+1586434418991,227858,HTTP Request,200,OK,#F: Shelf Image Upload 6-44,text,true,,371,5207437,37,37,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,227858,0,541
+1586434419050,227831,HTTP Request,200,OK,#F: Shelf Image Upload 6-47,text,true,,371,5207431,36,36,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,227831,0,573
+1586434418850,228034,HTTP Request,200,OK,#F: Shelf Image Upload 6-37,text,true,,371,5207461,35,35,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228034,0,460
+1586434419072,228248,HTTP Request,200,OK,#F: Shelf Image Upload 6-48,text,true,,371,5207437,34,34,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228248,0,590
+1586434418969,228351,HTTP Request,200,OK,#F: Shelf Image Upload 6-43,text,true,,371,5207455,34,34,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228351,0,523
+1586434418729,228592,HTTP Request,200,OK,#F: Shelf Image Upload 6-31,text,true,,371,5207455,32,32,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228592,0,396
+1586434418891,228430,HTTP Request,200,OK,#F: Shelf Image Upload 6-39,text,true,,371,5207449,32,32,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228430,0,486
+1586434418611,228711,HTTP Request,200,OK,#F: Shelf Image Upload 6-25,text,true,,371,5207431,30,30,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228711,0,345
+1586434419091,228292,HTTP Request,200,OK,#F: Shelf Image Upload 6-49,text,true,,371,5207434,29,29,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,228292,0,597
+1586434418310,229309,HTTP Request,200,OK,#F: Shelf Image Upload 6-10,text,true,,371,5207431,28,28,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,229309,0,182
+1586434418950,229083,HTTP Request,200,OK,#F: Shelf Image Upload 6-42,text,true,,371,5207434,27,27,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,229083,0,512
+1586434418431,230138,HTTP Request,200,OK,#F: Shelf Image Upload 6-16,text,true,,371,5207449,26,26,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230137,0,244
+1586434418410,230292,HTTP Request,200,OK,#F: Shelf Image Upload 6-15,text,true,,371,5207449,25,25,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230292,0,234
+1586434418491,230505,HTTP Request,200,OK,#F: Shelf Image Upload 6-19,text,true,,371,5207437,24,24,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230505,0,275
+1586434418450,230835,HTTP Request,200,OK,#F: Shelf Image Upload 6-17,text,true,,371,5207458,23,23,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230835,0,252
+1586434418830,230558,HTTP Request,200,OK,#F: Shelf Image Upload 6-36,text,true,,371,5207443,22,22,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230558,0,451
+1586434418912,230573,HTTP Request,200,OK,#F: Shelf Image Upload 6-40,text,true,,371,5207455,21,21,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230573,0,493
+1586434418550,230964,HTTP Request,200,OK,#F: Shelf Image Upload 6-22,text,true,,371,5207455,20,20,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,230964,0,311
+1586434418691,231154,HTTP Request,200,OK,#F: Shelf Image Upload 6-29,text,true,,371,5207461,19,19,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231154,0,380
+1586434418209,231793,HTTP Request,200,OK,#F: Shelf Image Upload 6-5,text,true,,371,5207458,18,18,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231793,0,107
+1586434418630,231373,HTTP Request,200,OK,#F: Shelf Image Upload 6-26,text,true,,371,5207443,17,17,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231373,0,354
+1586434419030,231030,HTTP Request,200,OK,#F: Shelf Image Upload 6-46,text,true,,371,5207440,16,16,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231030,0,560
+1586434418470,231616,HTTP Request,200,OK,#F: Shelf Image Upload 6-18,text,true,,371,5207440,15,15,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231616,0,264
+1586434418650,231480,HTTP Request,200,OK,#F: Shelf Image Upload 6-27,text,true,,371,5207446,14,14,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231480,0,362
+1586434418370,231790,HTTP Request,200,OK,#F: Shelf Image Upload 6-13,text,true,,371,5207431,13,13,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231790,0,224
+1586434418810,231382,HTTP Request,200,OK,#F: Shelf Image Upload 6-35,text,true,,371,5207431,12,12,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231382,0,437
+1586434419010,231222,HTTP Request,200,OK,#F: Shelf Image Upload 6-45,text,true,,371,5207455,11,11,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231222,0,553
+1586434419111,231182,HTTP Request,200,OK,#F: Shelf Image Upload 6-50,text,true,,371,5207455,10,10,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231182,0,609
+1586434418791,231753,HTTP Request,200,OK,#F: Shelf Image Upload 6-34,text,true,,371,5207449,9,9,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231753,0,422
+1586434418510,232080,HTTP Request,200,OK,#F: Shelf Image Upload 6-20,text,true,,371,5207431,8,8,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,232080,0,286
+1586434418711,231886,HTTP Request,200,OK,#F: Shelf Image Upload 6-30,text,true,,371,5207437,7,7,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231886,0,402
+1586434418590,232027,HTTP Request,200,OK,#F: Shelf Image Upload 6-24,text,true,,371,5207443,6,6,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,232027,0,326
+1586434418750,231868,HTTP Request,200,OK,#F: Shelf Image Upload 6-32,text,true,,371,5207446,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231868,0,409
+1586434418670,231951,HTTP Request,200,OK,#F: Shelf Image Upload 6-28,text,true,,371,5207431,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231951,0,366
+1586434418530,232101,HTTP Request,200,OK,#F: Shelf Image Upload 6-21,text,true,,371,5207455,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,232101,0,296
+1586434418930,231712,HTTP Request,200,OK,#F: Shelf Image Upload 6-41,text,true,,371,5207446,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,231712,0,503
+1586434418771,232115,HTTP Request,200,OK,#F: Shelf Image Upload 6-33,text,true,,371,5207434,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,232115,0,420
+1586434650968,90,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-5,text,true,,289,812,9,9,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,90,0,40
+1586434650895,170,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-1,text,true,,289,812,8,8,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,170,0,113
+1586434650909,169,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-2,text,true,,289,812,8,8,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,169,0,100
+1586434650929,150,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-3,text,true,,289,812,7,7,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,150,0,79
+1586434650950,132,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-4,text,true,,289,812,6,6,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,132,0,62
+1586434650995,91,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-6,text,true,,289,812,5,5,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,91,0,36
+1586434651014,77,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-7,text,true,,289,812,5,5,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,77,0,22
+1586434651034,70,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-8,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,70,0,21
+1586434651049,68,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-9,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,68,0,19
+1586434651069,64,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-10,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,64,0,16
+1586434651089,66,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-11,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,66,0,21
+1586434651109,70,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-12,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,70,0,22
+1586434651128,59,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-13,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,59,0,20
+1586434651148,59,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-14,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,59,0,21
+1586434651168,60,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-15,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,60,0,19
+1586434651188,60,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-16,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,60,0,22
+1586434651208,58,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-17,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,58,0,17
+1586434651229,62,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-18,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,62,0,20
+1586434651248,59,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-19,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,59,0,23
+1586434651268,57,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-20,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,57,0,21
+1586434651287,56,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-21,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,56,0,17
+1586434651307,65,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-22,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,65,0,21
+1586434651328,56,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-23,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,56,0,17
+1586434651348,57,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-24,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,57,0,20
+1586434651368,55,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-25,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,55,0,18
+1586434651388,52,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-26,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,52,0,17
+1586434651408,47,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-27,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,47,0,17
+1586434651428,52,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-28,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,52,0,17
+1586434651447,130,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-29,text,true,,289,812,7,7,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,130,0,16
+1586434651467,112,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-30,text,true,,289,812,6,6,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,112,0,17
+1586434651487,94,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-31,text,true,,289,812,5,5,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,94,0,17
+1586434651507,74,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-32,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,74,0,18
+1586434651527,61,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-33,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,61,0,25
+1586434651548,47,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-34,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,47,0,15
+1586434651568,58,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-35,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,58,0,18
+1586434651588,55,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-36,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,55,0,18
+1586434651609,60,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-37,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,60,0,21
+1586434651649,79,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-39,text,true,,289,812,5,5,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,79,0,21
+1586434651670,61,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-40,text,true,,289,812,5,5,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,61,0,20
+1586434651629,104,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-38,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,104,0,20
+1586434651687,66,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-41,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,66,0,23
+1586434651708,52,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-42,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,52,0,18
+1586434651729,62,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-43,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,62,0,23
+1586434651749,62,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-44,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,62,0,22
+1586434651769,55,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-45,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,55,0,18
+1586434651789,77,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-46,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,77,0,19
+1586434651808,66,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-47,text,true,,289,812,4,4,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,65,0,19
+1586434651828,58,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-48,text,true,,289,812,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,58,0,22
+1586434651848,62,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-49,text,true,,289,812,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,62,0,26
+1586434651867,59,HTTP Request ,200,OK,#G: Trigger Recognition Process  7-50,text,true,,289,812,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,59,0,24
+1586434651928,73,HTTP Request,200,OK,#K: POG Master Data 8-1,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,73,0,25
+1586434651948,74,HTTP Request,200,OK,#K: POG Master Data 8-2,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,74,0,20
+1586434651967,70,HTTP Request,200,OK,#K: POG Master Data 8-3,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,70,0,23
+1586434651988,68,HTTP Request,200,OK,#K: POG Master Data 8-4,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,68,0,21
+1586434652008,73,HTTP Request,200,OK,#K: POG Master Data 8-5,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,73,0,27
+1586434652028,74,HTTP Request,200,OK,#K: POG Master Data 8-6,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,74,0,22
+1586434652048,65,HTTP Request,200,OK,#K: POG Master Data 8-7,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,65,0,22
+1586434652068,64,HTTP Request,200,OK,#K: POG Master Data 8-8,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,64,0,21
+1586434652087,64,HTTP Request,200,OK,#K: POG Master Data 8-9,text,true,,250,1285,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,64,0,23
+1586434652108,67,HTTP Request,200,OK,#K: POG Master Data 8-10,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,67,0,28
+1586434652127,61,HTTP Request,200,OK,#K: POG Master Data 8-11,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,61,0,23
+1586434652148,64,HTTP Request,200,OK,#K: POG Master Data 8-12,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,64,0,25
+1586434652169,71,HTTP Request,200,OK,#K: POG Master Data 8-13,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,71,0,19
+1586434652187,71,HTTP Request,200,OK,#K: POG Master Data 8-14,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,71,0,19
+1586434652208,65,HTTP Request,200,OK,#K: POG Master Data 8-15,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,65,0,22
+1586434652228,62,HTTP Request,200,OK,#K: POG Master Data 8-16,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,62,0,20
+1586434652247,67,HTTP Request,200,OK,#K: POG Master Data 8-17,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,67,0,24
+1586434652268,65,HTTP Request,200,OK,#K: POG Master Data 8-18,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,65,0,20
+1586434652288,65,HTTP Request,200,OK,#K: POG Master Data 8-19,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,65,0,20
+1586434652308,58,HTTP Request,200,OK,#K: POG Master Data 8-20,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,58,0,18
+1586434652328,55,HTTP Request,200,OK,#K: POG Master Data 8-21,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,55,0,18
+1586434652347,53,HTTP Request,200,OK,#K: POG Master Data 8-22,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,53,0,16
+1586434652367,52,HTTP Request,200,OK,#K: POG Master Data 8-23,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,52,0,15
+1586434652387,53,HTTP Request,200,OK,#K: POG Master Data 8-24,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,53,0,16
+1586434652407,54,HTTP Request,200,OK,#K: POG Master Data 8-25,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,54,0,16
+1586434652427,67,HTTP Request,200,OK,#K: POG Master Data 8-26,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,67,0,21
+1586434652449,64,HTTP Request,200,OK,#K: POG Master Data 8-27,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,64,0,24
+1586434652468,58,HTTP Request,200,OK,#K: POG Master Data 8-28,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,58,0,18
+1586434652487,63,HTTP Request,200,OK,#K: POG Master Data 8-29,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,63,0,21
+1586434652507,76,HTTP Request,200,OK,#K: POG Master Data 8-30,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,76,0,21
+1586434652527,74,HTTP Request,200,OK,#K: POG Master Data 8-31,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,74,0,23
+1586434652547,65,HTTP Request,200,OK,#K: POG Master Data 8-32,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,64,0,23
+1586434652567,88,HTTP Request,200,OK,#K: POG Master Data 8-33,text,true,,250,1286,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,88,0,44
+1586434652588,81,HTTP Request,200,OK,#K: POG Master Data 8-34,text,true,,250,1286,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,81,0,31
+1586434652608,66,HTTP Request,200,OK,#K: POG Master Data 8-35,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,66,0,21
+1586434652629,66,HTTP Request,200,OK,#K: POG Master Data 8-36,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,66,0,21
+1586434652648,62,HTTP Request,200,OK,#K: POG Master Data 8-37,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,62,0,24
+1586434652667,57,HTTP Request,200,OK,#K: POG Master Data 8-38,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,57,0,19
+1586434652688,69,HTTP Request,200,OK,#K: POG Master Data 8-39,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,69,0,22
+1586434652718,68,HTTP Request,200,OK,#K: POG Master Data 8-40,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,68,0,22
+1586434652727,63,HTTP Request,200,OK,#K: POG Master Data 8-41,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,63,0,19
+1586434652748,77,HTTP Request,200,OK,#K: POG Master Data 8-42,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,77,0,22
+1586434652767,63,HTTP Request,200,OK,#K: POG Master Data 8-43,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,63,0,20
+1586434652787,68,HTTP Request,200,OK,#K: POG Master Data 8-44,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,68,0,28
+1586434652809,71,HTTP Request,200,OK,#K: POG Master Data 8-45,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,71,0,20
+1586434652828,60,HTTP Request,200,OK,#K: POG Master Data 8-46,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,60,0,17
+1586434652848,68,HTTP Request,200,OK,#K: POG Master Data 8-47,text,true,,250,1286,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,68,0,24
+1586434652868,71,HTTP Request,200,OK,#K: POG Master Data 8-48,text,true,,250,1286,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,71,0,23
+1586434652889,70,HTTP Request,200,OK,#K: POG Master Data 8-49,text,true,,250,1286,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,70,0,26
+1586434652909,61,HTTP Request,200,OK,#K: POG Master Data 8-50,text,true,,250,1286,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/planogram,61,0,19
+1586434652972,226671,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-1,text,true,,250,13389150,50,50,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,226671,0,19
+1586434653333,495955,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-19,text,true,,250,13389096,49,49,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,495955,0,304
+1586434653272,502844,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-16,text,true,,250,13389141,48,48,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,502844,0,255
+1586434653251,527823,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-15,text,true,,250,13389159,47,47,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,527823,0,250
+1586434653532,535253,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-29,text,true,,250,13389159,46,46,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,535253,0,460
+1586434653711,535280,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-38,text,true,,250,13389141,45,45,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,535280,0,598
+1586434652993,542903,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-2,text,true,,250,13389150,44,44,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,542903,0,22
+1586434653933,548227,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-49,text,true,,250,13389123,43,43,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,548227,0,763
+1586434653032,551802,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-4,text,true,,250,13389096,42,42,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,551802,0,17
+1586434653013,553660,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-3,text,true,,250,13389123,41,41,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,553660,0,16
+1586434653632,572174,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-34,text,true,,250,13389132,40,40,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,572174,0,534
+1586434653512,574509,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-28,text,true,,250,13389096,39,39,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,574509,0,441
+1586434653773,575483,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-41,text,true,,250,13389168,38,38,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,575483,0,645
+1586434653153,577732,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-10,text,true,,250,13389132,37,37,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,577732,0,181
+1586434653071,587283,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-6,text,true,,250,13389105,36,36,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,587283,0,18
+1586434653211,588029,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-13,text,true,,250,13389168,35,35,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,588029,0,218
+1586434653092,589041,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-7,text,true,,250,13389132,34,34,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,589041,0,62
+1586434653752,591232,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-40,text,true,,250,13389177,33,33,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,591232,0,625
+1586434653192,592554,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-12,text,true,,250,13389096,32,32,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,592554,0,209
+1586434653373,593713,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-21,text,true,,250,13389177,31,31,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,593713,0,333
+1586434653452,594008,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-25,text,true,,250,13389177,30,30,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,594008,0,396
+1586434653872,594198,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-46,text,true,,250,13389159,29,29,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,594198,0,715
+1586434653832,595635,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-44,text,true,,250,13389123,28,28,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,595635,0,696
+1586434653052,596456,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-5,text,true,,250,13389141,27,27,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,596456,0,15
+1586434653472,596120,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-26,text,true,,250,13389141,26,26,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,596120,0,406
+1586434653132,596661,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-9,text,true,,250,13389186,25,25,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,596661,0,153
+1586434653892,596075,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-47,text,true,,250,13389114,24,24,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,596075,0,741
+1586434653492,596644,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-27,text,true,,250,13389141,23,23,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,596644,0,432
+1586434653312,596922,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-18,text,true,,250,13389150,22,22,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,596922,0,290
+1586434653812,596615,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-43,text,true,,250,13389168,21,21,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,596615,0,680
+1586434653393,597329,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-22,text,true,,250,13389123,20,20,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,597329,0,342
+1586434653553,597393,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-30,text,true,,250,13389150,19,19,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,597393,0,468
+1586434653412,597646,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-23,text,true,,250,13389114,18,18,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,597646,0,364
+1586434653353,597770,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-20,text,true,,250,13389159,17,17,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,597770,0,323
+1586434653593,598184,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-32,text,true,,250,13389141,16,16,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,598184,0,508
+1586434653652,598347,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-35,text,true,,250,13389114,15,15,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,598347,0,557
+1586434653293,598901,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-17,text,true,,250,13389105,14,14,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,598901,0,277
+1586434653852,598399,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-45,text,true,,250,13389177,13,13,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,598399,0,697
+1586434653732,598619,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-39,text,true,,250,13389159,12,12,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,598619,0,601
+1586434653792,598643,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-42,text,true,,250,13389186,11,11,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,598643,0,653
+1586434653173,599458,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-11,text,true,,250,13389096,10,10,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,599458,0,192
+1586434653231,599545,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-14,text,true,,250,13389123,9,9,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,599545,0,233
+1586434653112,599786,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-8,text,true,,250,13389150,8,8,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,599786,0,135
+1586434653432,599488,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-24,text,true,,250,13389141,7,7,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,599488,0,377
+1586434653952,599232,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-50,text,true,,250,13389159,6,6,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,599232,0,787
+1586434653672,599772,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-36,text,true,,250,13389150,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,599772,0,569
+1586434653612,600203,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-33,text,true,,250,13389159,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,600203,0,508
+1586434653573,600312,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-31,text,true,,250,13389159,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,600312,0,482
+1586434653692,600438,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-37,text,true,,250,13389186,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,600438,0,579
+1586434653912,600938,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-48,text,true,,250,13389123,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,600938,0,740
+1586435254863,61,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-1,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,61,0,36
+1586435254876,48,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-2,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,48,0,23
+1586435254897,49,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-3,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,49,0,25
+1586435254915,41,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-4,text,true,,272,570,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,41,0,17
+1586435254936,44,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-5,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,44,0,22
+1586435254957,41,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-6,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,41,0,16
+1586435254976,43,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-7,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,43,0,19
+1586435254995,47,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-8,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,47,0,23
+1586435255015,48,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-9,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,48,0,24
+1586435255034,42,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-10,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,42,0,20
+1586435255053,41,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-11,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,41,0,18
+1586435255074,41,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-12,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,41,0,19
+1586435255094,39,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-13,text,true,,272,570,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,39,0,16
+1586435255114,43,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-14,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,43,0,21
+1586435255135,44,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-15,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,44,0,19
+1586435255154,38,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-16,text,true,,272,570,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,38,0,15
+1586435255174,40,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-17,text,true,,272,570,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,40,0,18
+1586435255195,46,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-18,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,46,0,19
+1586435255215,46,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-19,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,46,0,18
+1586435255234,47,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-20,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,47,0,18
+1586435255254,46,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-21,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,46,0,20
+1586435255274,49,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-22,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,49,0,22
+1586435255294,47,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-23,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,47,0,21
+1586435255315,53,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-24,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,53,0,23
+1586435255335,59,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-25,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,59,0,33
+1586435255355,79,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-26,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,79,0,47
+1586435255374,73,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-27,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,73,0,42
+1586435255393,60,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-28,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,60,0,29
+1586435255415,50,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-29,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,50,0,22
+1586435255433,56,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-30,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,56,0,23
+1586435255455,56,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-31,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,56,0,23
+1586435255474,49,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-32,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,49,0,19
+1586435255494,51,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-33,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,51,0,22
+1586435255513,54,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-34,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,54,0,23
+1586435255561,70,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-36,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,70,0,34
+1586435255561,70,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-35,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,70,0,36
+1586435255575,56,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-37,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,56,0,23
+1586435255595,72,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-38,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,72,0,31
+1586435255635,60,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-40,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,60,0,28
+1586435255614,82,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-39,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,82,0,49
+1586435255654,57,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-41,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,57,0,21
+1586435255674,64,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-42,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,64,0,32
+1586435255715,64,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-44,text,true,,272,570,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,64,0,33
+1586435255734,60,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-45,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,60,0,31
+1586435255755,52,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-46,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,52,0,24
+1586435255774,59,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-47,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,59,0,25
+1586435255795,64,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-48,text,true,,272,570,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,64,0,33
+1586435255815,70,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-49,text,true,,272,570,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,70,0,30
+1586435255835,60,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-50,text,true,,272,570,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,60,0,29
+1586435255695,1068,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-43,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,1068,0,34
+1586435256784,74,HTTP Request,200,OK,#P: Cycle Start & Complete 11-1,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,74,0,9
+1586435256795,68,HTTP Request,200,OK,#P: Cycle Start & Complete 11-2,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,68,0,5
+1586435256804,70,HTTP Request,200,OK,#P: Cycle Start & Complete 11-3,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,70,0,6
+1586435256824,63,HTTP Request,200,OK,#P: Cycle Start & Complete 11-4,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,63,0,6
+1586435256843,60,HTTP Request,200,OK,#P: Cycle Start & Complete 11-5,text,true,,281,333,3,3,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,59,0,7
+1586435256867,65,HTTP Request,200,OK,#P: Cycle Start & Complete 11-6,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,65,0,7
+1586435256883,62,HTTP Request,200,OK,#P: Cycle Start & Complete 11-7,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,61,0,7
+1586435256904,61,HTTP Request,200,OK,#P: Cycle Start & Complete 11-8,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,61,0,6
+1586435256924,65,HTTP Request,200,OK,#P: Cycle Start & Complete 11-9,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,65,0,7
+1586435256945,58,HTTP Request,200,OK,#P: Cycle Start & Complete 11-10,text,true,,281,333,3,3,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,58,0,7
+1586435256965,80,HTTP Request,200,OK,#P: Cycle Start & Complete 11-11,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,80,0,8
+1586435256984,69,HTTP Request,200,OK,#P: Cycle Start & Complete 11-12,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,69,0,6
+1586435257004,69,HTTP Request,200,OK,#P: Cycle Start & Complete 11-13,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,69,0,6
+1586435257024,69,HTTP Request,200,OK,#P: Cycle Start & Complete 11-14,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,69,0,8
+1586435257044,62,HTTP Request,200,OK,#P: Cycle Start & Complete 11-15,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,61,0,6
+1586435257064,64,HTTP Request,200,OK,#P: Cycle Start & Complete 11-16,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,64,0,6
+1586435257084,68,HTTP Request,200,OK,#P: Cycle Start & Complete 11-17,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,68,0,7
+1586435257104,63,HTTP Request,200,OK,#P: Cycle Start & Complete 11-18,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,63,0,6
+1586435257124,66,HTTP Request,200,OK,#P: Cycle Start & Complete 11-19,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,65,0,6
+1586435257144,64,HTTP Request,200,OK,#P: Cycle Start & Complete 11-20,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,64,0,8
+1586435257164,77,HTTP Request,200,OK,#P: Cycle Start & Complete 11-21,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,77,0,6
+1586435257185,78,HTTP Request,200,OK,#P: Cycle Start & Complete 11-22,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,78,0,6
+1586435257204,62,HTTP Request,200,OK,#P: Cycle Start & Complete 11-23,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,62,0,7
+1586435257224,69,HTTP Request,200,OK,#P: Cycle Start & Complete 11-24,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,69,0,6
+1586435257243,73,HTTP Request,200,OK,#P: Cycle Start & Complete 11-25,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,73,0,6
+1586435257264,66,HTTP Request,200,OK,#P: Cycle Start & Complete 11-26,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,66,0,6
+1586435257284,65,HTTP Request,200,OK,#P: Cycle Start & Complete 11-27,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,64,0,7
+1586435257304,62,HTTP Request,200,OK,#P: Cycle Start & Complete 11-28,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,62,0,7
+1586435257324,61,HTTP Request,200,OK,#P: Cycle Start & Complete 11-29,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,61,0,7
+1586435257345,76,HTTP Request,200,OK,#P: Cycle Start & Complete 11-30,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,76,0,6
+1586435257364,85,HTTP Request,200,OK,#P: Cycle Start & Complete 11-31,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,85,0,7
+1586435257404,73,HTTP Request,200,OK,#P: Cycle Start & Complete 11-33,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,73,0,7
+1586435257383,95,HTTP Request,200,OK,#P: Cycle Start & Complete 11-32,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,95,0,7
+1586435257423,75,HTTP Request,200,OK,#P: Cycle Start & Complete 11-34,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,75,0,9
+1586435257445,72,HTTP Request,200,OK,#P: Cycle Start & Complete 11-35,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,72,0,10
+1586435257463,89,HTTP Request,200,OK,#P: Cycle Start & Complete 11-36,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,89,0,7
+1586435257484,73,HTTP Request,200,OK,#P: Cycle Start & Complete 11-37,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,73,0,8
+1586435257503,80,HTTP Request,200,OK,#P: Cycle Start & Complete 11-38,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,80,0,10
+1586435257524,72,HTTP Request,200,OK,#P: Cycle Start & Complete 11-39,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,72,0,7
+1586435257544,75,HTTP Request,200,OK,#P: Cycle Start & Complete 11-40,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,75,0,6
+1586435257565,65,HTTP Request,200,OK,#P: Cycle Start & Complete 11-41,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,65,0,5
+1586435257585,84,HTTP Request,200,OK,#P: Cycle Start & Complete 11-42,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,84,0,7
+1586435257604,85,HTTP Request,200,OK,#P: Cycle Start & Complete 11-43,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,84,0,6
+1586435257624,75,HTTP Request,200,OK,#P: Cycle Start & Complete 11-44,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,75,0,6
+1586435257644,75,HTTP Request,200,OK,#P: Cycle Start & Complete 11-45,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,74,0,6
+1586435257663,86,HTTP Request,200,OK,#P: Cycle Start & Complete 11-46,text,true,,281,333,5,5,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,86,0,6
+1586435257683,73,HTTP Request,200,OK,#P: Cycle Start & Complete 11-47,text,true,,281,333,4,4,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,73,0,6
+1586435257704,70,HTTP Request,200,OK,#P: Cycle Start & Complete 11-48,text,true,,281,333,3,3,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,70,0,6
+1586435257723,66,HTTP Request,200,OK,#P: Cycle Start & Complete 11-49,text,true,,281,333,2,2,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,66,0,6
+1586435257746,68,HTTP Request,200,OK,#P: Cycle Start & Complete 11-50,text,true,,281,333,1,1,http://10.32.186.150:7006/ords/space/pogc/cycle_info/,68,0,6

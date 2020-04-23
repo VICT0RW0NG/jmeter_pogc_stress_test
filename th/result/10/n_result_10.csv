@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586422434028,41,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-1,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,41,0,17
+1586422434127,44,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-2,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,44,0,19
+1586422434227,46,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-3,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,46,0,22
+1586422434328,51,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-4,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,51,0,26
+1586422434427,45,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-5,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,45,0,20
+1586422434527,43,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-6,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,43,0,18
+1586422434627,38,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-7,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,38,0,16
+1586422434727,51,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-8,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,51,0,27
+1586422434827,42,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-9,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,42,0,18
+1586422434927,48,HTTP Request,200,OK,#N: Recognition Summary - Thread Group 10-10,text,true,,272,570,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/summary/daily?startDate=20200101&endDate=20200107,48,0,25

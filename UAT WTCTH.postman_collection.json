@@ -1,0 +1,594 @@
+{
+	"info": {
+		"_postman_id": "cdcbd629-6b69-4381-92b3-dbae17701ccf",
+		"name": "UAT WTCTH",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SM-1112 #P UAT",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"StoreID\": \"241\",\r\n  \"CycleID\": \"20200406143002\",\r\n  \"Action\": \"01\"\r\n}"
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/space/pogc/cycle_info/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"space",
+						"pogc",
+						"cycle_info",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SM-1103 #E UAT",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"StoreID\": \"241\",\r\n  \"CycleID\": \"20200327114520\",\r\n  \"LocationID\": \"GE007\",\r\n  \"POGCode\": \"15NA4AP1\",\r\n  \"POGVersion\": \"20200130\",\r\n  \"POGModule\": \"a\",\r\n  \"ShootingtDateTime\": \"20200327114610\",\r\n  \"NumberOfCapturedImage\": 2\r\n}"
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/space/pogc/shelf_data/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"space",
+						"pogc",
+						"shelf_data",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SM-1090 #M UAT",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n              \"CycleID\": \"20190101235959\",\r\n              \"StoreID\": \"3202\",\r\n              \"LocationID\": \"GL001\",\r\n              \"POGCode\": \"130015CKC\",\r\n              \"POGVersion\": \"20190101\",\r\n              \"POGModule\": \"B\",\r\n              \"ResultImageURL\": \"http://private-anon-c46724102c-kamuztest.apiary-mock.com/api/image3.jpg\",\r\n              \"ItemRecognitions\": [{\r\n                             \"ProductCode\": \"101545\",\r\n                             \"Result\": \"04\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 12\r\n              },\r\n              {\r\n                             \"ProductCode\": \"101564\",\r\n                             \"Result\": \"01\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 16\r\n              },\r\n              {\r\n                             \"ProductCode\": \"287657\",\r\n                             \"Result\": \"02\",\r\n                             \"Layer\": \"B04/1\",\r\n                             \"ItemPosition\": 14,\r\n                             \"CorrectItemCode\": \"113627\"\r\n              },\r\n              {\r\n                             \"ProductCode\": \"287838\",\r\n                             \"Result\": \"03\",\r\n                             \"Layer\": \"B01\",\r\n                             \"ItemPosition\": 3\r\n              },\r\n              {\r\n                             \"ProductCode\": \"316322\",\r\n                             \"Result\": \"05\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 10\r\n              },\r\n              {\r\n                             \"ProductCode\": \"370742\",\r\n                             \"Result\": \"06\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 7\r\n              },\r\n              {\r\n                             \"ProductCode\": \"459566\",\r\n                             \"Result\": \"04\",\r\n                             \"Layer\": \"B03\",\r\n                             \"ItemPosition\": 1\r\n              }]\r\n}\r\n"
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/wtcphspc/pogc/recognition_result/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"wtcphspc",
+						"pogc",
+						"recognition_result",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SM-1100 #B UAT",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					},
+					{
+						"key": "i_store",
+						"value": "241",
+						"type": "text"
+					},
+					{
+						"key": "i_cycleid",
+						"value": "99999999999999",
+						"type": "text"
+					},
+					{
+						"key": "i_show_item",
+						"value": "Y",
+						"type": "text"
+					},
+					{
+						"key": "i_pog_code",
+						"value": "04NABN01",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_module",
+						"value": "a",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/space/pogc/recognition_result/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"space",
+						"pogc",
+						"recognition_result",
+						""
+					],
+					"query": [
+						{
+							"key": "i_pog_code",
+							"value": "16F02000W",
+							"disabled": true
+						},
+						{
+							"key": "i_pog_module",
+							"value": "A",
+							"disabled": true
+						},
+						{
+							"key": "i_result",
+							"value": "01",
+							"disabled": true
+						},
+						{
+							"key": "i_show_item",
+							"value": "Y",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SM-1087 #J UAT",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					},
+					{
+						"key": "i_store",
+						"value": "241",
+						"type": "text"
+					},
+					{
+						"key": "i_cycleid",
+						"value": "20200218160147",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_show_item",
+						"value": "Y",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_code",
+						"value": "04NABN01",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_module",
+						"value": "a",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n              \"StoreNo\": \"228\",\r\n              \"TimeStamp\": \"20190101235959\",\r\n              \"Products\": [{\r\n                             \"Item\": \"106657\",\r\n                             \"SOH\": 23,\r\n                             \"InTransitQty\": 105,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 19\r\n              },\r\n              {\r\n                             \"Item\": \"106749\",\r\n                             \"SOH\": 24,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 24,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"108203\",\r\n                             \"SOH\": 95,\r\n                             \"InTransitQty\": 50,\r\n                             \"ReservedQty\": 17,\r\n                             \"AvailableQty\": 78\r\n              },\r\n              {\r\n                             \"Item\": \"115428\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 68,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 84\r\n              },\r\n              {\r\n                             \"Item\": \"118528\",\r\n                             \"SOH\": 35,\r\n                             \"InTransitQty\": 85,\r\n                             \"ReservedQty\": 28,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"113627\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 45,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"119931\",\r\n                             \"SOH\": 93,\r\n                             \"InTransitQty\": 21,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 67\r\n              },\r\n              {\r\n                             \"Item\": \"146012\",\r\n                             \"SOH\": 82,\r\n                             \"InTransitQty\": 76,\r\n                             \"ReservedQty\": 51,\r\n                             \"AvailableQty\": 31\r\n              },\r\n              {\r\n                             \"Item\": \"158945\",\r\n                             \"SOH\": 19,\r\n                             \"InTransitQty\": 47,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"159180\",\r\n                             \"SOH\": 6,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"203192\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 18,\r\n                             \"AvailableQty\": 24\r\n              },\r\n              {\r\n                             \"Item\": \"203786\",\r\n                             \"SOH\": 32,\r\n                             \"InTransitQty\": 80,\r\n                             \"ReservedQty\": 10,\r\n                             \"AvailableQty\": 22\r\n              },\r\n              {\r\n                             \"Item\": \"208100\",\r\n                             \"SOH\": 90,\r\n                             \"InTransitQty\": 104,\r\n                             \"ReservedQty\": 64,\r\n                             \"AvailableQty\": 26\r\n              },\r\n              {\r\n                             \"Item\": \"210447\",\r\n                             \"SOH\": 9,\r\n                             \"InTransitQty\": 40,\r\n                             \"ReservedQty\": 3,\r\n                             \"AvailableQty\": 6\r\n              },\r\n              {\r\n                             \"Item\": \"213123\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 22,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 44\r\n              },\r\n              {\r\n                             \"Item\": \"213733\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"213734\",\r\n                             \"SOH\": 22,\r\n                             \"InTransitQty\": 59,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 7\r\n              },\r\n              {\r\n                             \"Item\": \"213824\",\r\n                             \"SOH\": 27,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 9,\r\n                             \"AvailableQty\": 18\r\n              },\r\n              {\r\n                             \"Item\": \"214001\",\r\n                             \"SOH\": 85,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 32,\r\n                             \"AvailableQty\": 53\r\n              },\r\n              {\r\n                             \"Item\": \"214452\",\r\n                             \"SOH\": 54,\r\n                             \"InTransitQty\": 23,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"221608\",\r\n                             \"SOH\": 84,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 82,\r\n                             \"AvailableQty\": 2\r\n              },\r\n              {\r\n                             \"Item\": \"225777\",\r\n                             \"SOH\": 66,\r\n                             \"InTransitQty\": 11,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 54\r\n              },\r\n              {\r\n                             \"Item\": \"226858\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 28,\r\n                             \"ReservedQty\": 26,\r\n                             \"AvailableQty\": 4\r\n              },\r\n              {\r\n                             \"Item\": \"235033\",\r\n                             \"SOH\": 55,\r\n                             \"InTransitQty\": 25,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 16\r\n              },\r\n              {\r\n                             \"Item\": \"241692\",\r\n                             \"SOH\": 31,\r\n                             \"InTransitQty\": 0,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"241694\",\r\n                             \"SOH\": 16,\r\n                             \"InTransitQty\": 110,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"243211\",\r\n                             \"SOH\": 64,\r\n                             \"InTransitQty\": 44,\r\n                             \"ReservedQty\": 27,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"244766\",\r\n                             \"SOH\": 42,\r\n                             \"InTransitQty\": 107,\r\n                             \"ReservedQty\": 12,\r\n                             \"AvailableQty\": 30\r\n              },\r\n              {\r\n                             \"Item\": \"249576\",\r\n                             \"SOH\": 10,\r\n                             \"InTransitQty\": 55,\r\n                             \"ReservedQty\": 1,\r\n                             \"AvailableQty\": 9\r\n              },\r\n              {\r\n                             \"Item\": \"254861\",\r\n                             \"SOH\": 4,\r\n                             \"InTransitQty\": 67,\r\n                             \"ReservedQty\": 4,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"255077\",\r\n                             \"SOH\": 30,\r\n                             \"InTransitQty\": 74,\r\n                             \"ReservedQty\": 16,\r\n                             \"AvailableQty\": 14\r\n              },\r\n              {\r\n                             \"Item\": \"255078\",\r\n                             \"SOH\": 87,\r\n                             \"InTransitQty\": 16,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 85\r\n              },\r\n              {\r\n                             \"Item\": \"259017\",\r\n                             \"SOH\": 89,\r\n                             \"InTransitQty\": 54,\r\n                             \"ReservedQty\": 43,\r\n                             \"AvailableQty\": 46\r\n              },\r\n              {\r\n                             \"Item\": \"261991\",\r\n                             \"SOH\": 56,\r\n                             \"InTransitQty\": 72,\r\n                             \"ReservedQty\": 39,\r\n                             \"AvailableQty\": 17\r\n              },\r\n              {\r\n                             \"Item\": \"287939\",\r\n                             \"SOH\": 71,\r\n                             \"InTransitQty\": 49,\r\n                             \"ReservedQty\": 58,\r\n                             \"AvailableQty\": 13\r\n              },\r\n              {\r\n                             \"Item\": \"290516\",\r\n                             \"SOH\": 39,\r\n                             \"InTransitQty\": 32,\r\n                             \"ReservedQty\": 14,\r\n                             \"AvailableQty\": 25\r\n              },\r\n              {\r\n                             \"Item\": \"292509\",\r\n                             \"SOH\": 0,\r\n                             \"InTransitQty\": 19,\r\n                             \"ReservedQty\": 0,\r\n                             \"AvailableQty\": 0\r\n              },\r\n              {\r\n                             \"Item\": \"294092\",\r\n                             \"SOH\": 52,\r\n                             \"InTransitQty\": 103,\r\n                             \"ReservedQty\": 15,\r\n                             \"AvailableQty\": 37\r\n              },\r\n              {\r\n                             \"Item\": \"294853\",\r\n                             \"SOH\": 83,\r\n                             \"InTransitQty\": 31,\r\n                             \"ReservedQty\": 23,\r\n                             \"AvailableQty\": 60\r\n              },\r\n              {\r\n                             \"Item\": \"298443\",\r\n                             \"SOH\": 67,\r\n                             \"InTransitQty\": 92,\r\n                             \"ReservedQty\": 2,\r\n                             \"AvailableQty\": 65\r\n              },\r\n              {\r\n                             \"Item\": \"302148\",\r\n                             \"SOH\": 26,\r\n                             \"InTransitQty\": 30,\r\n                             \"ReservedQty\": 11,\r\n                             \"AvailableQty\": 15\r\n              },\r\n              {\r\n                             \"Item\": \"302149\",\r\n                             \"SOH\": 103,\r\n                             \"InTransitQty\": 62,\r\n                             \"ReservedQty\": 21,\r\n                             \"AvailableQty\": 82\r\n              },\r\n              {\r\n                             \"Item\": \"467879\",\r\n                             \"SOH\": 8,\r\n                             \"InTransitQty\": 89,\r\n                             \"ReservedQty\": 5,\r\n                             \"AvailableQty\": 3\r\n              }]\r\n}"
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/RSIMCentral/api/realTimeStockQuery",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"RSIMCentral",
+						"api",
+						"realTimeStockQuery"
+					],
+					"query": [
+						{
+							"key": "i_pog_code",
+							"value": "POGXFCAREX7M",
+							"disabled": true
+						},
+						{
+							"key": "i_pog_module",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "i_result",
+							"value": "01",
+							"disabled": true
+						},
+						{
+							"key": "i_show_item",
+							"value": "Y",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SM-1099 #A UAT",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					},
+					{
+						"key": "i_store",
+						"value": "228",
+						"type": "text"
+					},
+					{
+						"key": "i_cycleid",
+						"value": "20200218160147",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/space/pogc/get_kpi_home/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"space",
+						"pogc",
+						"get_kpi_home",
+						""
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "SM-1099 #A UAT",
+					"originalRequest": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "i_user_name",
+								"type": "text",
+								"value": "jamwhk"
+							},
+							{
+								"key": "i_password",
+								"type": "text",
+								"value": "asw12345"
+							},
+							{
+								"key": "i_bu_id",
+								"type": "text",
+								"value": "WTCHK"
+							},
+							{
+								"key": "i_store",
+								"type": "text",
+								"value": "3203"
+							},
+							{
+								"key": "i_cycleid",
+								"type": "text",
+								"value": "20190101235959"
+							}
+						],
+						"url": {
+							"raw": "http://10.32.186.138:8080/ords/wtchkspc/pogc/get_kpi_home/",
+							"protocol": "http",
+							"host": [
+								"10",
+								"32",
+								"186",
+								"138"
+							],
+							"port": "8080",
+							"path": [
+								"ords",
+								"wtchkspc",
+								"pogc",
+								"get_kpi_home",
+								""
+							]
+						}
+					},
+					"status": "Not Found",
+					"code": 404,
+					"_postman_previewlanguage": "html",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Wed, 02 Jan 2019 10:05:26 GMT"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Server",
+							"value": "Oracle-REST-Data-Services2.0.10.289.08.09"
+						},
+						{
+							"key": "Content-Type",
+							"value": "text/html; charset=UTF-8"
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "Servlet/2.5 JSP/2.1"
+						}
+					],
+					"cookie": [],
+					"body": "<!DOCTYPE html>\n<!--[if lt IE 7 ]>\n<html class=\"ie6\">\n    <![endif]-->\n    <!--[if IE 7 ]>\n    <html class=\"ie7 no-css3\">\n        <![endif]-->\n        <!--[if IE 8 ]>\n        <html class=\"ie8 no-css3\">\n            <![endif]-->\n            <!--[if IE 9 ]>\n            <html class=\"ie9\">\n                <![endif]-->\n                <!--[if (gt IE 9)|!(IE)]>\n                <!-->\n                <html>\n                    <!--\n                    <![endif]-->\n                    <html lang=\"en\">\n                        <head>\n                            <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n                            <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n                            <style type=\"text/css\" media=\"screen\">html,body,div,span,h3,p,ol,ul,li,header,hgroup{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}header,hgroup{display:block}body{font:normal 12px/16px Arial,sans-serif;margin:0 auto;background:#6a9cda}header#xHeader{border-bottom:1px solid #8fa4c0;position:relative;z-index:10;background:none #000}header#xHeader hgroup{width:974px;margin:0 auto;position:relative;height:36px;background:none #000}header#xHeader a#uLogo{margin:8px 0;display:inline-block;font:bold 14px/20px Arial,sans-serif;color:#AAA;text-decoration:none}header#xHeader a#uLogo span.logo{color:#F00}.no-css3 div#xContentContainer div.xContent{padding-top:14px}.no-css3 div#xContentContainer div.xContent div.xMainLeft h2{margin-top:0}div#xWhiteContentContainer{margin-bottom:30px}div#xWhiteContentContainer.xContentWide{background:#FFF;margin-bottom:0}div#xWhiteContentContainer.xContentWide div.xWhiteContent{-moz-border-radius:0;-webkit-border-radius:0;border-radius:0;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none}div#xWhiteContentContainer div.xWhiteContent{width:974px;margin:0 auto;padding:0 0 20px 0;background:#FFF;min-height:500px;-moz-border-radius:0 4px 4px 4px;-webkit-border-radius:0 4px 4px 4px;border-radius:0 4px 4px 4px;-moz-box-shadow:0 1px 2px rgba(0,0,0,0.15);-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:0 1px 2px rgba(0,0,0,0.15)}div#xContentHeaderContainer{background:#6a9cda;-moz-box-shadow:0 -1px 0 rgba(0,0,0,0.15) inset;-webkit-box-shadow:0 -1px 0 rgba(0,0,0,0.15) inset;box-shadow:0 -1px 0 rgba(0,0,0,0.15) inset}div#xContentHeaderContainer div.xContentHeader{width:974px;margin:0 auto;padding:30px 0 32px 0;position:relative;min-height:60px}div#xContentHeaderContainer div.xContentHeader h3{font:bold 24px/24px Arial,sans-serif;color:#fff;text-shadow:0 2px 1px rgba(0,0,0,0.25);margin:0 0 20px 0}div#xFooterContainer{min-height:200px;border-top:1px solid rgba(0,0,0,0.15);background:#6a9cda}body.errorPage div#xContentHeaderContainer div.xContentHeader{min-height:30px}body.errorPage div#xContentHeaderContainer div.xContentHeader h3{font:bold 30px/30px Arial,sans-serif;color:#FFF;text-shadow:0 1px 2px rgba(0,0,0,0.25);margin:0}div.errorPage p{font:normal 14px/20px Arial,sans-seri;color:#666;padding:0 0 10px 0}div.errorPage ul{list-style:disc outside;padding:0 10px 0;margin:0 0 20px 0}div.errorPage ul li{font:normal 12px/16px Arial,sans-serif;color:#666;margin:0 0 8px 10px}pre{font-family:Consolas,\"Lucida Console\",\"Courier New\",Courier,monospace}\n</style>\n                            <script type=\"text/javascript\" charset=\"utf-8\">\n\t'header hgroup'.replace(/\\w+/g,\n\t\t\tfunction(n) {\n\t\t\t\tdocument.createElement(n)\n\t\t\t})\n</script>\n                            <title>Not Found</title>\n                        </head>\n                        <body class=\"errorPage\">\n                            <header id=\"xHeader\">\n                                <hgroup>\n                                    <a id=\"uLogo\" href=\"./\">\n                                        <span class=\"logo\">ORACLE</span>\n\t\t\t\tREST DATA SERVICES\n                                    </a>\n                                </hgroup>\n                            </header>\n                            <div id=\"xContentHeaderContainer\">\n                                <div class=\"xContentHeader\">\n                                    <h3>\n                                        <span class=\"statusCode\">404</span> -\n                                        <span\n\t\t\t\t\tclass=\"statusMessage\">Not Found</span>\n                                    </h3>\n                                </div>\n                            </div>\n                            <div id=\"xWhiteContentContainer\" class=\"xContentWide\">\n                                <div class=\"xWhiteContent\">\n                                    <div class=\"errorPage\">\n                                        <p>\n                                            <ul class=\"reasons\">\n\t\t\t\t</ul>\n                                        </p>\n                                        <p>\n                                            <pre></pre>\n                                        </p>\n                                        <p>\n                                            <pre></pre>\n                                        </p>\n                                    </div>\n                                </div>\n                            </div>\n                            <div id=\"xFooterContainer\">\n\t</div>\n                        </body>\n                    </html>"
+				}
+			]
+		},
+		{
+			"name": "SM-1102 #D UAT",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_user_name",
+						"value": "pogcth",
+						"type": "text"
+					},
+					{
+						"key": "i_password",
+						"value": "test1234",
+						"type": "text"
+					},
+					{
+						"key": "i_bu_id",
+						"value": "WTCTH",
+						"type": "text"
+					},
+					{
+						"key": "i_store",
+						"value": "241",
+						"type": "text"
+					},
+					{
+						"key": "i_cycleid",
+						"value": "20190520115454",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_code",
+						"value": "090010CH4",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_version",
+						"value": "20160823",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_module",
+						"value": "a",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_division",
+						"value": "03",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_dept",
+						"value": "21",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "i_pog_subdept",
+						"value": "1199",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://10.32.186.150:7006/ords/space/pogc/recommendation/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"32",
+						"186",
+						"150"
+					],
+					"port": "7006",
+					"path": [
+						"ords",
+						"space",
+						"pogc",
+						"recommendation",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

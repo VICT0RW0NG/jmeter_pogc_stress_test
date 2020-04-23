@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586422420704,11296,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-1,text,true,,250,13389159,10,10,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,11296,0,19
+1586422420803,12098,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-2,text,true,,250,13389150,9,9,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,12098,0,25
+1586422420903,12326,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-3,text,true,,250,13389150,8,8,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,12326,0,41
+1586422421003,12553,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-4,text,true,,250,13389168,7,7,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,12553,0,63
+1586422421303,12407,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-7,text,true,,250,13389141,6,6,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,12407,0,106
+1586422421204,12547,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-6,text,true,,250,13389141,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,12547,0,93
+1586422421105,12694,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-5,text,true,,250,13389123,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,12694,0,78
+1586422421503,12414,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-9,text,true,,250,13389096,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtchk,12414,0,137
+1586422421403,12579,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-8,text,true,,250,13389132,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,12579,0,126
+1586422421603,12423,HTTP Request,200,OK,#L: Create Product Image - Thread Group 9-10,text,true,,250,13389105,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/product-with-images/wtcph,12423,0,149
