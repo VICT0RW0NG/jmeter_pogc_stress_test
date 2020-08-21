@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1597982480931,56,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-1,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,56,0,27
+1597982481529,49,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-4,text,true,,340,815,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,49,0,21
+1597982481730,56,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-5,text,true,,340,815,3,3,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,56,0,21
+1597982481134,748,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-2,text,true,,340,815,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,748,0,38
+1597982481332,550,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-3,text,true,,340,815,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,550,0,27
+1597999103326,66,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-1,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,66,0,27
+1597999103526,60,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-2,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,60,0,25
+1597999103726,53,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-3,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,53,0,22
+1597999103926,51,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-4,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,51,0,23
+1597999104123,50,HTTP Request ,200,OK,#G: Trigger Recognition Process  4-5,text,true,,340,815,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCTH/recognition,50,0,19
