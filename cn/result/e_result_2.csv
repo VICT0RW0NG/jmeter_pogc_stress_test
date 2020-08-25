@@ -1,0 +1,23 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598261058345,271,#E: Shelf Data Upload - HTTP Request,200,OK,#E: Shelf Data Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,271,0,22
+1598261058844,200,#E: Shelf Data Upload - HTTP Request,200,OK,#E: Shelf Data Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,200,0,21
+1598346317695,251,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,251,0,25
+1598346318195,241,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,241,0,23
+1598346319624,188,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,188,0,0
+1598346320758,224,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,223,0,29
+1598346320757,238,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,238,0,25
+1598346323896,190,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,188,0,28
+1598346325448,201,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,199,0,0
+1598346329481,318,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,318,0,23
+1598346330708,226,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,226,0,0
+1598346332429,267,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,265,0,24
+1598346408219,212,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,212,0,22
+1598346408718,212,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,209,0,21
+1598346410070,206,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,204,0,0
+1598346410769,213,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,213,0,19
+1598346411222,240,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,239,0,21
+1598346414053,299,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,299,0,24
+1598346415593,208,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,208,0,0
+1598346419550,233,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,232,0,23
+1598346420698,173,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,173,0,0
+1598346422804,233,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,232,0,22

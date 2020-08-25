@@ -1,0 +1,95 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598261057288,98,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,98,0,47
+1598261057393,169,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-1,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,168,0,42
+1598261057592,203,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-2,text,true,,290,336,2,2,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,203,0,14
+1598261057793,173,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-3,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,173,0,16
+1598261057991,183,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-4,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,183,0,20
+1598261058192,150,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-5,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,150,0,22
+1598261058345,271,#E: Shelf Data Upload - HTTP Request,200,OK,#E: Shelf Data Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,271,0,22
+1598261058844,200,#E: Shelf Data Upload - HTTP Request,200,OK,#E: Shelf Data Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,200,0,21
+1598261059050,1476,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,371,2116366,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1476,0,18
+1598261060531,47,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,47,0,0
+1598261060579,1351,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,371,1403865,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1351,0,0
+1598261061938,72,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,72,0,26
+1598261059549,2514,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,371,2371393,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2514,0,24
+1598261062065,58,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,58,0,17
+1598261062010,2730,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,371,2640276,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2729,0,0
+1598261064745,71,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,71,0,24
+1598261062123,2717,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,371,2616491,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2717,0,0
+1598261064842,375,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,375,0,329
+1598261064817,1299,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,371,2116384,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1299,0,0
+1598261066121,45,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,45,0,0
+1598261065218,2074,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,371,2371411,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2074,0,0
+1598261067296,76,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,76,0,32
+1598261066167,1291,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,371,1403850,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1291,0,0
+1598261067460,68,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,68,0,21
+1598261067372,1669,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,371,2640267,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1669,0,0
+1598261069045,48,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,48,0,0
+1598261069094,1373,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,371,2616491,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1373,0,0
+1598261070469,56,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 4-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,56,0,17
+1598346316814,154,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,154,0,106
+1598346316974,324,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-1,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,324,0,66
+1598346317473,213,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-2,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,213,0,28
+1598346317695,251,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,251,0,25
+1598346318195,241,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,241,0,23
+1598346317947,1611,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2116396,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1611,0,54
+1598346319558,65,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,65,0,0
+1598346319624,188,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,188,0,0
+1598346319812,860,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,1403862,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,860,0,0
+1598346318437,2245,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2371387,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2245,0,32
+1598346320674,82,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,82,0,26
+1598346320683,75,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,75,0,25
+1598346320758,224,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,223,0,29
+1598346320757,238,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,238,0,25
+1598346320996,2817,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2640261,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2817,0,0
+1598346323815,80,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,80,0,28
+1598346323896,190,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,188,0,28
+1598346324086,1317,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2116387,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1317,0,0
+1598346325405,43,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,43,0,0
+1598346325448,201,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,199,0,0
+1598346325649,1275,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2371402,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1275,0,0
+1598346326927,73,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,73,0,30
+1598346320982,8413,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2616476,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,8413,0,0
+1598346329397,84,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,84,0,29
+1598346329481,318,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,318,0,23
+1598346329799,867,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,1403868,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,867,0,0
+1598346330669,38,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,38,0,0
+1598346330708,226,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,226,0,0
+1598346330934,1422,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2640276,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1422,0,0
+1598346332358,70,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,70,0,26
+1598346332429,267,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,265,0,24
+1598346332696,7541,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2616494,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,7541,0,0
+1598346340239,93,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,93,0,38
+1598346407399,122,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,122,0,48
+1598346407527,185,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-1,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,184,0,21
+1598346408027,181,#P: Cycle Start & Complete - HTTP Request,200,OK,#P: Cycle Start & Complete 2-2,text,true,,281,336,1,1,http://10.82.25.104:7004/ords/space/pogc/cycle_info/,181,0,21
+1598346408219,212,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,212,0,22
+1598346408718,212,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,209,0,21
+1598346408432,1581,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2116375,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1581,0,29
+1598346410017,53,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,53,0,0
+1598346410070,206,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,204,0,0
+1598346408931,1789,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2371393,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1789,0,36
+1598346410724,45,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,45,0,0
+1598346410769,213,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,213,0,19
+1598346410277,855,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,1403844,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,854,0,0
+1598346411135,87,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,87,0,45
+1598346411222,240,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,239,0,21
+1598346411462,2299,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2616500,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,2299,0,0
+1598346413764,288,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,288,0,31
+1598346414053,299,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,299,0,24
+1598346414352,1191,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2116393,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1191,0,0
+1598346415544,48,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,48,0,0
+1598346415593,208,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,281,493,2,2,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,208,0,0
+1598346415801,1340,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,371,2371399,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1340,0,30
+1598346417144,42,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-1,text,true,,289,911,2,2,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,42,0,0
+1598346410982,8500,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2640264,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,8500,0,38
+1598346419483,66,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,66,0,28
+1598346419550,233,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,232,0,23
+1598346419784,873,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,1403868,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,873,0,0
+1598346420660,38,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,38,0,0
+1598346420698,173,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,173,0,0
+1598346420872,1861,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2640258,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1861,0,0
+1598346422735,68,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,68,0,26
+1598346422804,233,#E: Shelf Data Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,281,493,1,1,http://10.82.25.104:7004/ords/space/pogc/shelf_data/,232,0,22
+1598346423038,1570,#F: Shelf Image Upload - HTTP Request,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,371,2616476,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCCN/image/upload,1570,0,0
+1598346424611,65,#G: Trigger Recognition Process - HTTP Request ,200,OK,#F #G: Shelf Image Upload 3-2,text,true,,289,911,1,1,https://planogram.dev.tuputech.com//v1/api/pi/WTCCN/recognition,64,0,0

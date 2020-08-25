@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598337055754,917,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,917,0,850
+1598341402553,144,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,143,0,89
+1598341552646,171,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,171,0,80
+1598344720801,123,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,123,0,82
+1598344849558,100,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,100,0,50
+1598345219926,89,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,89,0,48
+1598345474448,88,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,87,0,51
+1598345695090,91,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,91,0,43
+1598345789894,537,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,537,0,38
