@@ -41,7 +41,7 @@
           </elementProp>
           <elementProp name="num_of_thread" elementType="Argument">
             <stringProp name="Argument.name">num_of_thread</stringProp>
-            <stringProp name="Argument.value">5</stringProp>
+            <stringProp name="Argument.value">50</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="init_p_master" elementType="Argument">
