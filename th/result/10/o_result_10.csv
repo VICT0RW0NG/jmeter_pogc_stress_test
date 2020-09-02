@@ -1,11 +1,2 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1586422407066,59,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,59,0,27
-1586422407165,51,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-2,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,51,0,18
-1586422407264,55,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-3,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,55,0,20
-1586422407364,47,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-4,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,47,0,17
-1586422407465,50,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-5,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,50,0,17
-1586422407564,51,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-6,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,51,0,19
-1586422407664,49,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-7,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,49,0,16
-1586422407764,56,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-8,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,56,0,28
-1586422407865,46,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-9,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,46,0,19
-1586422407965,61,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-10,text,true,,636,321,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,61,0,31
+1598923517071,74,HTTP Request,200,OK,#O: Auth Token Service  - Thread Group 1-1,text,true,,638,327,1,1,https://planogram.dev.tuputech.com/v1/api/pi/auth/token/8rqv15ecqsfgkom3r18uehafr875rc9j638c7gfe,74,0,40

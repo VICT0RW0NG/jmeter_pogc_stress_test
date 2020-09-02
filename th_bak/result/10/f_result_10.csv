@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586422413476,2902,HTTP Request,200,OK,#F: Shelf Image Upload 6-1,text,true,,371,5207443,10,10,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,2902,0,25
+1586422413575,3570,HTTP Request,200,OK,#F: Shelf Image Upload 6-2,text,true,,371,5207452,9,9,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,3570,0,22
+1586422413675,3947,HTTP Request,200,OK,#F: Shelf Image Upload 6-3,text,true,,371,5207461,8,8,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,3947,0,41
+1586422413775,4351,HTTP Request,200,OK,#F: Shelf Image Upload 6-4,text,true,,371,5207458,7,7,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4351,0,63
+1586422414175,4226,HTTP Request,200,OK,#F: Shelf Image Upload 6-8,text,true,,371,5207452,6,6,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4226,0,120
+1586422413876,4726,HTTP Request,200,OK,#F: Shelf Image Upload 6-5,text,true,,371,5207440,5,5,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4726,0,80
+1586422413976,4660,HTTP Request,200,OK,#F: Shelf Image Upload 6-6,text,true,,371,5207443,4,4,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4660,0,91
+1586422414275,4435,HTTP Request,200,OK,#F: Shelf Image Upload 6-9,text,true,,371,5207437,3,3,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4435,0,133
+1586422414076,4672,HTTP Request,200,OK,#F: Shelf Image Upload 6-7,text,true,,371,5207437,2,2,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4672,0,104
+1586422414375,4386,HTTP Request,200,OK,#F: Shelf Image Upload 6-10,text,true,,371,5207455,1,1,https://planogram.dev.tuputech.com/v1/api/pi/WTCTH/image/upload,4386,0,149
